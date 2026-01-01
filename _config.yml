@@ -14,7 +14,15 @@ description: >-
   HI Spatial adalah media yang membahas tutorial seputar geospatial, WebGIS, 
   pemetaan, dan teknologi spasial. Belajar Leaflet, Mapbox, QGIS, dan banyak lagi.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. https://hispatial.com
+url: "https://hispatial.com" # the base hostname & protocol for your site
+
+# Open Graph / Social SEO
+locale: id_ID
+logo: /assets/images/logo.png # Add your logo image
+
+# Webmaster Verifications (uncomment and add your codes)
+# google_site_verification: YOUR_GOOGLE_VERIFICATION_CODE
+# bing_site_verification: YOUR_BING_VERIFICATION_CODE
 author:
   name: HI Spatial
   url: https://hispatial.com
