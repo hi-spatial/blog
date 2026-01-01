@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="home">
+    <section class="hero">
+        <h1>{{ site.title }}</h1>
+        <p class="tagline">{{ site.tagline }}</p>
+    </section>
+
+    {% include search.html %}
+    {% include category-filter.html %}
+
+    <section class="posts-grid">
+        {% for post in paginator.posts %}
+        {% include post-card.html post=post %}
+        {% endfor %}
+    </section>
+
+    {% if paginator.total_pages > 1 %}
+    {% include pagination.html %}
+    {% endif %}
+</div>

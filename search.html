@@ -1,0 +1,61 @@
+---
+layout: default
+title: Cari Artikel
+description: Cari tutorial dan artikel seputar geospatial dan WebGIS
+---
+
+<div class="search-page">
+    <div class="search-hero">
+        <h1>🔍 Cari Artikel</h1>
+        <p class="search-tagline">Temukan tutorial dan panduan seputar geospatial dan WebGIS</p>
+    </div>
+
+    <div class="search-container">
+        <div class="search-box-large">
+            <input type="text" id="search-input" class="search-input-large"
+                placeholder="Ketik kata kunci... (misal: Leaflet, QGIS, peta)" autocomplete="off" autofocus>
+            <svg class="search-icon-large" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+            </svg>
+        </div>
+
+        <div class="search-tips">
+            <span class="tip-label">Tips:</span>
+            <span class="tip-text">Cari berdasarkan judul, kategori, atau konten artikel</span>
+        </div>
+    </div>
+
+    <div class="search-results-container">
+        <div id="search-stats" class="search-stats"></div>
+        <div id="search-results-page" class="search-results-grid">
+            <div class="search-placeholder">
+                <div class="placeholder-icon">📚</div>
+                <p>Ketik kata kunci untuk mencari artikel...</p>
+                <p class="placeholder-hint">Minimal 2 karakter</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="popular-categories">
+        <h3>Kategori Populer</h3>
+        <div class="category-pills">
+            {% assign all_categories = site.posts | map: "categories" | flatten | uniq | sort %}
+            {% for category in all_categories %}
+            <a href="{{ '/categories/' | relative_url }}#{{ category | slugify }}" class="category-pill">
+                {{ category }}
+                <span class="category-count">
+                    {% assign count = 0 %}
+                    {% for post in site.posts %}
+                    {% if post.categories contains category %}
+                    {% assign count = count | plus: 1 %}
+                    {% endif %}
+                    {% endfor %}
+                    {{ count }}
+                </span>
+            </a>
+            {% endfor %}
+        </div>
+    </div>
+</div>

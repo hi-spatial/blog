@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+    <header class="post-header">
+        <div class="post-meta">
+            <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+                {{ page.date | date: "%d %B %Y" }}
+            </time>
+            {% if page.author %}
+            <span class="post-author" itemprop="author">• {{ page.author }}</span>
+            {% endif %}
+        </div>
+
+        <h1 class="post-title" itemprop="headline">{{ page.title }}</h1>
+
+        {% if page.description %}
+        <p class="post-description">{{ page.description }}</p>
+        {% endif %}
+
+        <div class="post-categories">
+            {% for category in page.categories %}
+            <a href="{{ '/categories/' | relative_url }}#{{ category | slugify }}" class="category-tag">
+                {{ category }}
+            </a>
+            {% endfor %}
+        </div>
+    </header>
+
+    <div class="post-content" itemprop="articleBody">
+        {{ content }}
+    </div>
+
+    <footer class="post-footer">
+        <div class="post-nav">
+            {% if page.previous.url %}
+            <a href="{{ page.previous.url | relative_url }}" class="nav-prev">
+                <span class="nav-label">← Sebelumnya</span>
+                <span class="nav-title">{{ page.previous.title }}</span>
+            </a>
+            {% endif %}
+
+            {% if page.next.url %}
+            <a href="{{ page.next.url | relative_url }}" class="nav-next">
+                <span class="nav-label">Selanjutnya →</span>
+                <span class="nav-title">{{ page.next.title }}</span>
+            </a>
+            {% endif %}
+        </div>
+
+        <a href="{{ '/' | relative_url }}" class="back-home">← Kembali ke Beranda</a>
+    </footer>
+</article>

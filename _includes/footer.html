@@ -1,0 +1,41 @@
+<footer class="site-footer">
+    <div class="footer-container">
+        <div class="footer-brand">
+            <span class="footer-logo">HI<span class="accent">Spatial</span></span>
+            <p class="footer-tagline">{{ site.tagline }}</p>
+        </div>
+
+        <div class="footer-links">
+            <div class="footer-section">
+                <h4>Navigasi</h4>
+                <a href="{{ '/' | relative_url }}">Beranda</a>
+                <a href="{{ '/categories/' | relative_url }}">Kategori</a>
+                <a href="{{ '/search/' | relative_url }}">Cari Artikel</a>
+                <a href="{{ '/about/' | relative_url }}">Tentang Kami</a>
+            </div>
+
+            <div class="footer-section">
+                <h4>Kategori Populer</h4>
+                {% assign categories = site.posts | map: "categories" | flatten | uniq | slice: 0, 4 %}
+                {% for category in categories %}
+                <a href="{{ '/categories/' | relative_url }}#{{ category | slugify }}">{{ category }}</a>
+                {% endfor %}
+            </div>
+
+            <div class="footer-section">
+                <h4>Ikuti Kami</h4>
+                {% if site.twitter_username %}
+                <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank" rel="noopener">Twitter</a>
+                {% endif %}
+                {% if site.github_username %}
+                <a href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener">GitHub</a>
+                {% endif %}
+                <a href="{{ '/feed.xml' | relative_url }}">RSS Feed</a>
+            </div>
+        </div>
+
+        <div class="footer-bottom">
+            <p>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}. Hak Cipta Dilindungi.</p>
+        </div>
+    </div>
+</footer>

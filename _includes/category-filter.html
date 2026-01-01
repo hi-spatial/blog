@@ -1,0 +1,13 @@
+<div class="category-filter">
+    {% assign all_categories = site.posts | map: "categories" | flatten | uniq | sort %}
+
+    <a href="{{ '/' | relative_url }}" class="filter-tag {% unless page.category %}active{% endunless %}">
+        Semua
+    </a>
+
+    {% for category in all_categories %}
+    <a href="{{ '/categories/' | relative_url }}#{{ category | slugify }}" class="filter-tag">
+        {{ category }}
+    </a>
+    {% endfor %}
+</div>

@@ -1,0 +1,30 @@
+---
+layout: default
+title: Semua Kategori
+description: Jelajahi artikel berdasarkan kategori topik geospatial dan WebGIS
+---
+
+<div class="category-page">
+    <header class="category-header">
+        <h1>Semua Kategori</h1>
+        <p>Jelajahi artikel berdasarkan kategori topik</p>
+    </header>
+
+    <div class="categories-list">
+        {% assign categories = site.posts | map: "categories" | flatten | uniq | sort %}
+        {% for category in categories %}
+        <section class="category-section" id="{{ category | slugify }}">
+            <h2>{{ category }}</h2>
+            <ul class="category-posts">
+                {% assign category_posts = site.posts | where_exp: "post", "post.categories contains category" %}
+                {% for post in category_posts limit: 5 %}
+                <li>
+                    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                    <span class="post-date">{{ post.date | date: "%d %b %Y" }}</span>
+                </li>
+                {% endfor %}
+            </ul>
+        </section>
+        {% endfor %}
+    </div>
+</div>

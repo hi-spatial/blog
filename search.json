@@ -1,0 +1,15 @@
+---
+layout: null
+---
+[
+  {% for post in site.posts %}
+    {
+      "title": {{ post.title | jsonify }},
+      "url": "{{ post.url | relative_url }}",
+      "date": "{{ post.date | date: '%d %b %Y' }}",
+      "categories": {{ post.categories | jsonify }},
+      "description": {{ post.description | default: post.excerpt | strip_html | truncate: 200 | jsonify }},
+      "content": {{ post.content | strip_html | truncate: 500 | jsonify }}
+    }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

@@ -1,0 +1,76 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: HI Spatial
+tagline: Tutorial Geospatial & WebGIS
+email: hello@hispatial.com
+description: >-
+  HI Spatial adalah media yang membahas tutorial seputar geospatial, WebGIS, 
+  pemetaan, dan teknologi spasial. Belajar Leaflet, Mapbox, QGIS, dan banyak lagi.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. https://hispatial.com
+author:
+  name: HI Spatial
+  url: https://hispatial.com
+
+# Social
+twitter_username: hispatial
+github_username: hispatial
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+
+# Pagination
+paginate: 6
+paginate_path: "/page/:num/"
+
+# Allow future posts (for demo purposes)
+future: true
+
+# Collections for categories
+collections:
+  categories:
+    output: true
+    permalink: /category/:name/
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author: HI Spatial
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# SEO Settings
+twitter:
+  card: summary_large_image
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
