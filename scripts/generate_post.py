@@ -4,6 +4,7 @@ import json
 import datetime
 import yaml
 import re
+import traceback
 from groq import Groq
 
 # Constants
@@ -65,7 +66,7 @@ def generate_post_content(topic_data):
                 "content": prompt,
             }
         ],
-        model="llama3-70b-8192",
+        model="llama-3.3-70b-versatile",
     )
     
     return chat_completion.choices[0].message.content
@@ -144,6 +145,8 @@ def main():
         
     except Exception as e:
         print(f"Error generating post: {e}")
+        print("Full traceback:")
+        traceback.print_exc()
         exit(1)
 
 if __name__ == "__main__":
