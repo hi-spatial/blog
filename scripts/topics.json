@@ -1,212 +1,213 @@
 {
-    "categories": [
+  "categories": [
+    "GIS",
+    "WebGIS",
+    "Python",
+    "Remote Sensing",
+    "Tutorial",
+    "Data"
+  ],
+  "topics": [
+    {
+      "title": "Pengenalan Sistem Informasi Geografis (SIG) untuk Pemula",
+      "category": "GIS",
+      "keywords": [
+        "SIG",
         "GIS",
-        "WebGIS",
-        "Python",
-        "Remote Sensing",
-        "Tutorial",
-        "Data"
-    ],
-    "topics": [
-        {
-            "title": "Pengenalan Sistem Informasi Geografis (SIG) untuk Pemula",
-            "category": "GIS",
-            "keywords": [
-                "SIG",
-                "GIS",
-                "pemula",
-                "peta"
-            ]
-        },
-        {
-            "title": "Cara Membuat Peta Web Sederhana menggunakan Leaflet JS",
-            "category": "WebGIS",
-            "keywords": [
-                "leaflet",
-                "javascript",
-                "webgis",
-                "peta interaktif"
-            ]
-        },
-        {
-            "title": "Tutorial QGIS: Digitasi Peta dan Menghitung Luas Area",
-            "category": "Tutorial",
-            "keywords": [
-                "QGIS",
-                "digitasi",
-                "luas area",
-                "spatial analysis"
-            ]
-        },
-        {
-            "title": "Analisis Spasial Dasar dengan Python dan GeoPandas",
-            "category": "Python",
-            "keywords": [
-                "python",
-                "geopandas",
-                "data science",
-                "analisis spasial"
-            ]
-        },
-        {
-            "title": "Mengenal Google Earth Engine untuk Pemantauan Lingkungan",
-            "category": "Remote Sensing",
-            "keywords": [
-                "google earth engine",
-                "gee",
-                "remote sensing",
-                "lingkungan"
-            ]
-        },
-        {
-            "title": "Visualisasi Data Geospasial dengan Kepler.gl",
-            "category": "Data",
-            "keywords": [
-                "kepler.gl",
-                "visualisasi",
-                "big data",
-                "maps"
-            ]
-        },
-        {
-            "title": "Membuat Peta Interaktif dengan Mapbox GL JS",
-            "category": "WebGIS",
-            "keywords": [
-                "mapbox",
-                "webgis",
-                "gl js",
-                "3d maps"
-            ]
-        },
-        {
-            "title": "Dasar-dasar Remote Sensing dan Pengolahan Citra Satelit",
-            "category": "Remote Sensing",
-            "keywords": [
-                "remote sensing",
-                "citra satelit",
-                "penginderaan jauh"
-            ]
-        },
-        {
-            "title": "Cara Menggunakan OpenStreetMap Data di QGIS",
-            "category": "GIS",
-            "keywords": [
-                "openstreetmap",
-                "osm",
-                "qgis",
-                "open data"
-            ]
-        },
-        {
-            "title": "Tutorial Geocoding: Mengubah Alamat Menjadi Koordinat",
-            "category": "Data",
-            "keywords": [
-                "geocoding",
-                "koordinat",
-                "alamat",
-                "python"
-            ]
-        },
-        {
-            "title": "Pemanfaatan Drone untuk Pemetaan Wilayah",
-            "category": "Remote Sensing",
-            "keywords": [
-                "drone",
-                "uav",
-                "pemetaan",
-                "fotogrametri"
-            ]
-        },
-        {
-            "title": "Mengenal Format Data Geospasial: Shapefile, GeoJSON, dan KML",
-            "category": "Data",
-            "keywords": [
-                "shapefile",
-                "geojson",
-                "kml",
-                "format data"
-            ]
-        },
-        {
-            "title": "Analisis Kepadatan Penduduk Menggunakan Heatmap di QGIS",
-            "category": "Tutorial",
-            "keywords": [
-                "heatmap",
-                "qgis",
-                "kependudukan",
-                "analisis"
-            ]
-        },
-        {
-            "title": "WebGIS Tanpa Coding dengan uMap",
-            "category": "WebGIS",
-            "keywords": [
-                "umap",
-                "webgis",
-                "no-code",
-                "openstreetmap"
-            ]
-        },
-        {
-            "title": "Panduan Instalasi dan Konfigurasi PostGIS",
-            "category": "Data",
-            "keywords": [
-                "postgis",
-                "postgresql",
-                "database",
-                "sql"
-            ]
-        },
-        {
-            "title": "Membuat Peta Tematik Indeks Pembangunan Manusia",
-            "category": "GIS",
-            "keywords": [
-                "peta tematik",
-                "ipm",
-                "kartografi",
-                "visualisasi"
-            ]
-        },
-        {
-            "title": "Analisis Jaringan Jalan (Network Analysis) di QGIS",
-            "category": "Tutorial",
-            "keywords": [
-                "network analysis",
-                "qgis",
-                "jalan",
-                "rute"
-            ]
-        },
-        {
-            "title": "Visualisasi Topografi dan Kontur Lahan",
-            "category": "GIS",
-            "keywords": [
-                "topografi",
-                "kontur",
-                "dem",
-                "relief"
-            ]
-        },
-        {
-            "title": "Pemanfaatan SIG dalam Mitigasi Bencana Alam",
-            "category": "GIS",
-            "keywords": [
-                "bencana",
-                "mitigasi",
-                "sig",
-                "analisis risiko"
-            ]
-        },
-        {
-            "title": "Mengenal Proyeksi Peta dan Sistem Koordinat (CRS)",
-            "category": "GIS",
-            "keywords": [
-                "proyeksi",
-                "koordinat",
-                "crs",
-                "geodesi"
-            ]
-        }
-    ],
-    "used_topics": []
+        "pemula",
+        "peta"
+      ]
+    },
+    {
+      "title": "Cara Membuat Peta Web Sederhana menggunakan Leaflet JS",
+      "category": "WebGIS",
+      "keywords": [
+        "leaflet",
+        "javascript",
+        "webgis",
+        "peta interaktif"
+      ]
+    },
+    {
+      "title": "Tutorial QGIS: Digitasi Peta dan Menghitung Luas Area",
+      "category": "Tutorial",
+      "keywords": [
+        "QGIS",
+        "digitasi",
+        "luas area",
+        "spatial analysis"
+      ]
+    },
+    {
+      "title": "Analisis Spasial Dasar dengan Python dan GeoPandas",
+      "category": "Python",
+      "keywords": [
+        "python",
+        "geopandas",
+        "data science",
+        "analisis spasial"
+      ]
+    },
+    {
+      "title": "Mengenal Google Earth Engine untuk Pemantauan Lingkungan",
+      "category": "Remote Sensing",
+      "keywords": [
+        "google earth engine",
+        "gee",
+        "remote sensing",
+        "lingkungan"
+      ]
+    },
+    {
+      "title": "Visualisasi Data Geospasial dengan Kepler.gl",
+      "category": "Data",
+      "keywords": [
+        "kepler.gl",
+        "visualisasi",
+        "big data",
+        "maps"
+      ]
+    },
+    {
+      "title": "Membuat Peta Interaktif dengan Mapbox GL JS",
+      "category": "WebGIS",
+      "keywords": [
+        "mapbox",
+        "webgis",
+        "gl js",
+        "3d maps"
+      ]
+    },
+    {
+      "title": "Dasar-dasar Remote Sensing dan Pengolahan Citra Satelit",
+      "category": "Remote Sensing",
+      "keywords": [
+        "remote sensing",
+        "citra satelit",
+        "penginderaan jauh"
+      ]
+    },
+    {
+      "title": "Cara Menggunakan OpenStreetMap Data di QGIS",
+      "category": "GIS",
+      "keywords": [
+        "openstreetmap",
+        "osm",
+        "qgis",
+        "open data"
+      ]
+    },
+    {
+      "title": "Pemanfaatan Drone untuk Pemetaan Wilayah",
+      "category": "Remote Sensing",
+      "keywords": [
+        "drone",
+        "uav",
+        "pemetaan",
+        "fotogrametri"
+      ]
+    },
+    {
+      "title": "Mengenal Format Data Geospasial: Shapefile, GeoJSON, dan KML",
+      "category": "Data",
+      "keywords": [
+        "shapefile",
+        "geojson",
+        "kml",
+        "format data"
+      ]
+    },
+    {
+      "title": "Analisis Kepadatan Penduduk Menggunakan Heatmap di QGIS",
+      "category": "Tutorial",
+      "keywords": [
+        "heatmap",
+        "qgis",
+        "kependudukan",
+        "analisis"
+      ]
+    },
+    {
+      "title": "WebGIS Tanpa Coding dengan uMap",
+      "category": "WebGIS",
+      "keywords": [
+        "umap",
+        "webgis",
+        "no-code",
+        "openstreetmap"
+      ]
+    },
+    {
+      "title": "Panduan Instalasi dan Konfigurasi PostGIS",
+      "category": "Data",
+      "keywords": [
+        "postgis",
+        "postgresql",
+        "database",
+        "sql"
+      ]
+    },
+    {
+      "title": "Membuat Peta Tematik Indeks Pembangunan Manusia",
+      "category": "GIS",
+      "keywords": [
+        "peta tematik",
+        "ipm",
+        "kartografi",
+        "visualisasi"
+      ]
+    },
+    {
+      "title": "Analisis Jaringan Jalan (Network Analysis) di QGIS",
+      "category": "Tutorial",
+      "keywords": [
+        "network analysis",
+        "qgis",
+        "jalan",
+        "rute"
+      ]
+    },
+    {
+      "title": "Visualisasi Topografi dan Kontur Lahan",
+      "category": "GIS",
+      "keywords": [
+        "topografi",
+        "kontur",
+        "dem",
+        "relief"
+      ]
+    },
+    {
+      "title": "Pemanfaatan SIG dalam Mitigasi Bencana Alam",
+      "category": "GIS",
+      "keywords": [
+        "bencana",
+        "mitigasi",
+        "sig",
+        "analisis risiko"
+      ]
+    },
+    {
+      "title": "Mengenal Proyeksi Peta dan Sistem Koordinat (CRS)",
+      "category": "GIS",
+      "keywords": [
+        "proyeksi",
+        "koordinat",
+        "crs",
+        "geodesi"
+      ]
+    }
+  ],
+  "used_topics": [
+    {
+      "title": "Tutorial Geocoding: Mengubah Alamat Menjadi Koordinat",
+      "category": "Data",
+      "keywords": [
+        "geocoding",
+        "koordinat",
+        "alamat",
+        "python"
+      ]
+    }
+  ]
 }
