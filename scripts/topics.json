@@ -49,16 +49,6 @@
       ]
     },
     {
-      "title": "Mengenal Google Earth Engine untuk Pemantauan Lingkungan",
-      "category": "Remote Sensing",
-      "keywords": [
-        "google earth engine",
-        "gee",
-        "remote sensing",
-        "lingkungan"
-      ]
-    },
-    {
       "title": "Visualisasi Data Geospasial dengan Kepler.gl",
       "category": "Data",
       "keywords": [
@@ -207,6 +197,16 @@
         "koordinat",
         "crs",
         "geodesi"
+      ]
+    },
+    {
+      "title": "Mengenal Google Earth Engine untuk Pemantauan Lingkungan",
+      "category": "Remote Sensing",
+      "keywords": [
+        "google earth engine",
+        "gee",
+        "remote sensing",
+        "lingkungan"
       ]
     }
   ]
