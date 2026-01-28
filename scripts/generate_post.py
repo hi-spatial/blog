@@ -78,7 +78,7 @@ def create_post_file(topic_data, content):
     # Generate slug from title
     slug = title.lower().replace(" ", "-")
     slug = re.sub(r'[^a-z0-9-]', '', slug)
-    filename = f"{date_str}-{slug}.markdown"
+    filename = f"{date_str}-{slug}.md"
     filepath = os.path.join(POSTS_DIR, filename)
     
     # Use category from data and add standard tags
@@ -129,7 +129,7 @@ def main():
         print(f"Category: {', '.join(fm['categories'])}")
         
         # Calculate and print URL for workflow
-        slug = os.path.basename(filepath).split('-', 3)[-1].replace('.markdown', '')
+        slug = os.path.basename(filepath).split('-', 3)[-1].replace('.md', '')
         cat_slugs = [c.lower().replace(' ', '-') for c in fm['categories']]
         cat_path = '/'.join(cat_slugs)
         print(f"Post URL: https://hi-spatial.github.io/{cat_path}/{slug}/")
