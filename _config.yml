@@ -13,7 +13,7 @@ email: hello@hispatial.com
 description: >-
   HI Spatial adalah media yang membahas tutorial seputar geospatial, WebGIS, 
   pemetaan, dan teknologi spasial. Belajar Leaflet, Mapbox, QGIS, dan banyak lagi.
-url: "https://hi-spatial.github.io"
+url: "https://blog.hispatial.id"
 baseurl: ""
 
 # Open Graph / Social SEO
@@ -25,7 +25,7 @@ logo: "{{ '/assets/images/logo.png' | relative_url }}" # Add your logo image
 # bing_site_verification: YOUR_BING_VERIFICATION_CODE
 author:
   name: HI Spatial
-  url: https://hispatial.com
+  url: https://hispatial.id
 
 # Social
 twitter_username: hispatial
