@@ -186,16 +186,6 @@
         "sig",
         "analisis risiko"
       ]
-    },
-    {
-      "title": "Mengenal Proyeksi Peta dan Sistem Koordinat (CRS)",
-      "category": "GIS",
-      "keywords": [
-        "proyeksi",
-        "koordinat",
-        "crs",
-        "geodesi"
-      ]
     }
   ],
   "used_topics": [
@@ -207,6 +197,16 @@
         "koordinat",
         "alamat",
         "python"
+      ]
+    },
+    {
+      "title": "Mengenal Proyeksi Peta dan Sistem Koordinat (CRS)",
+      "category": "GIS",
+      "keywords": [
+        "proyeksi",
+        "koordinat",
+        "crs",
+        "geodesi"
       ]
     }
   ]
