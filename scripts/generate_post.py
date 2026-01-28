@@ -72,7 +72,13 @@ def generate_post_content(topic_data):
     return chat_completion.choices[0].message.content
 
 def create_post_file(topic_data, content):
-    date_str = datetime.date.today().strftime("%Y-%m-%d")
+    # Calculate WIB time (UTC+7)
+    utc_now = datetime.datetime.now(datetime.timezone.utc)
+    wib_now = utc_now + datetime.timedelta(hours=7)
+    
+    date_str = wib_now.strftime("%Y-%m-%d")
+    time_str = wib_now.strftime("%H:%M:%S")
+    
     title = topic_data['title']
     
     # Generate slug from title
@@ -92,7 +98,7 @@ def create_post_file(topic_data, content):
     frontmatter = {
         "layout": "post",
         "title": title,
-        "date": f"{date_str} 00:00:00 +0700",
+        "date": f"{date_str} {time_str} +0700",
         "categories": categories,
         "tags": tags,
         "author": "Kodibot"
