@@ -14,7 +14,7 @@ description: >-
   HI Spatial adalah media yang membahas tutorial seputar geospatial, WebGIS, 
   pemetaan, dan teknologi spasial. Belajar Leaflet, Mapbox, QGIS, dan banyak lagi.
 url: "https://hi-spatial.github.io"
-baseurl: "/blog"
+baseurl: ""
 
 # Open Graph / Social SEO
 locale: id_ID
