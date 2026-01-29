@@ -39,16 +39,6 @@
       ]
     },
     {
-      "title": "Visualisasi Data Geospasial dengan Kepler.gl",
-      "category": "Data",
-      "keywords": [
-        "kepler.gl",
-        "visualisasi",
-        "big data",
-        "maps"
-      ]
-    },
-    {
       "title": "Membuat Peta Interaktif dengan Mapbox GL JS",
       "category": "WebGIS",
       "keywords": [
@@ -207,6 +197,16 @@
         "javascript",
         "webgis",
         "peta interaktif"
+      ]
+    },
+    {
+      "title": "Visualisasi Data Geospasial dengan Kepler.gl",
+      "category": "Data",
+      "keywords": [
+        "kepler.gl",
+        "visualisasi",
+        "big data",
+        "maps"
       ]
     }
   ]
