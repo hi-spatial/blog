@@ -78,16 +78,6 @@
       ]
     },
     {
-      "title": "Mengenal Format Data Geospasial: Shapefile, GeoJSON, dan KML",
-      "category": "Data",
-      "keywords": [
-        "shapefile",
-        "geojson",
-        "kml",
-        "format data"
-      ]
-    },
-    {
       "title": "Analisis Kepadatan Penduduk Menggunakan Heatmap di QGIS",
       "category": "Tutorial",
       "keywords": [
@@ -207,6 +197,16 @@
         "visualisasi",
         "big data",
         "maps"
+      ]
+    },
+    {
+      "title": "Mengenal Format Data Geospasial: Shapefile, GeoJSON, dan KML",
+      "category": "Data",
+      "keywords": [
+        "shapefile",
+        "geojson",
+        "kml",
+        "format data"
       ]
     }
   ]
