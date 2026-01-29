@@ -19,16 +19,6 @@
       ]
     },
     {
-      "title": "Cara Membuat Peta Web Sederhana menggunakan Leaflet JS",
-      "category": "WebGIS",
-      "keywords": [
-        "leaflet",
-        "javascript",
-        "webgis",
-        "peta interaktif"
-      ]
-    },
-    {
       "title": "Tutorial QGIS: Digitasi Peta dan Menghitung Luas Area",
       "category": "Tutorial",
       "keywords": [
@@ -207,6 +197,16 @@
         "gee",
         "remote sensing",
         "lingkungan"
+      ]
+    },
+    {
+      "title": "Cara Membuat Peta Web Sederhana menggunakan Leaflet JS",
+      "category": "WebGIS",
+      "keywords": [
+        "leaflet",
+        "javascript",
+        "webgis",
+        "peta interaktif"
       ]
     }
   ]
