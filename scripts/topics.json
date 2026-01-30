@@ -58,16 +58,6 @@
       ]
     },
     {
-      "title": "Cara Menggunakan OpenStreetMap Data di QGIS",
-      "category": "GIS",
-      "keywords": [
-        "openstreetmap",
-        "osm",
-        "qgis",
-        "open data"
-      ]
-    },
-    {
       "title": "Pemanfaatan Drone untuk Pemetaan Wilayah",
       "category": "Remote Sensing",
       "keywords": [
@@ -207,6 +197,16 @@
         "geojson",
         "kml",
         "format data"
+      ]
+    },
+    {
+      "title": "Cara Menggunakan OpenStreetMap Data di QGIS",
+      "category": "GIS",
+      "keywords": [
+        "openstreetmap",
+        "osm",
+        "qgis",
+        "open data"
       ]
     }
   ]
