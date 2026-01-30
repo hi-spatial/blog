@@ -49,15 +49,6 @@
       ]
     },
     {
-      "title": "Dasar-dasar Remote Sensing dan Pengolahan Citra Satelit",
-      "category": "Remote Sensing",
-      "keywords": [
-        "remote sensing",
-        "citra satelit",
-        "penginderaan jauh"
-      ]
-    },
-    {
       "title": "Pemanfaatan Drone untuk Pemetaan Wilayah",
       "category": "Remote Sensing",
       "keywords": [
@@ -207,6 +198,15 @@
         "postgresql",
         "database",
         "sql"
+      ]
+    },
+    {
+      "title": "Dasar-dasar Remote Sensing dan Pengolahan Citra Satelit",
+      "category": "Remote Sensing",
+      "keywords": [
+        "remote sensing",
+        "citra satelit",
+        "penginderaan jauh"
       ]
     }
   ]
