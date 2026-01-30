@@ -88,16 +88,6 @@
       ]
     },
     {
-      "title": "Panduan Instalasi dan Konfigurasi PostGIS",
-      "category": "Data",
-      "keywords": [
-        "postgis",
-        "postgresql",
-        "database",
-        "sql"
-      ]
-    },
-    {
       "title": "Membuat Peta Tematik Indeks Pembangunan Manusia",
       "category": "GIS",
       "keywords": [
@@ -207,6 +197,16 @@
         "osm",
         "qgis",
         "open data"
+      ]
+    },
+    {
+      "title": "Panduan Instalasi dan Konfigurasi PostGIS",
+      "category": "Data",
+      "keywords": [
+        "postgis",
+        "postgresql",
+        "database",
+        "sql"
       ]
     }
   ]
