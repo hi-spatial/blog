@@ -39,16 +39,6 @@
       ]
     },
     {
-      "title": "Membuat Peta Interaktif dengan Mapbox GL JS",
-      "category": "WebGIS",
-      "keywords": [
-        "mapbox",
-        "webgis",
-        "gl js",
-        "3d maps"
-      ]
-    },
-    {
       "title": "Pemanfaatan Drone untuk Pemetaan Wilayah",
       "category": "Remote Sensing",
       "keywords": [
@@ -207,6 +197,16 @@
         "remote sensing",
         "citra satelit",
         "penginderaan jauh"
+      ]
+    },
+    {
+      "title": "Membuat Peta Interaktif dengan Mapbox GL JS",
+      "category": "WebGIS",
+      "keywords": [
+        "mapbox",
+        "webgis",
+        "gl js",
+        "3d maps"
       ]
     }
   ]
