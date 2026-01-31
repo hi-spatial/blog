@@ -49,16 +49,6 @@
       ]
     },
     {
-      "title": "WebGIS Tanpa Coding dengan uMap",
-      "category": "WebGIS",
-      "keywords": [
-        "umap",
-        "webgis",
-        "no-code",
-        "openstreetmap"
-      ]
-    },
-    {
       "title": "Membuat Peta Tematik Indeks Pembangunan Manusia",
       "category": "GIS",
       "keywords": [
@@ -207,6 +197,16 @@
         "uav",
         "pemetaan",
         "fotogrametri"
+      ]
+    },
+    {
+      "title": "WebGIS Tanpa Coding dengan uMap",
+      "category": "WebGIS",
+      "keywords": [
+        "umap",
+        "webgis",
+        "no-code",
+        "openstreetmap"
       ]
     }
   ]
