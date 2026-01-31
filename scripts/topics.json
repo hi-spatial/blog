@@ -39,16 +39,6 @@
       ]
     },
     {
-      "title": "Pemanfaatan Drone untuk Pemetaan Wilayah",
-      "category": "Remote Sensing",
-      "keywords": [
-        "drone",
-        "uav",
-        "pemetaan",
-        "fotogrametri"
-      ]
-    },
-    {
       "title": "Analisis Kepadatan Penduduk Menggunakan Heatmap di QGIS",
       "category": "Tutorial",
       "keywords": [
@@ -207,6 +197,16 @@
         "webgis",
         "gl js",
         "3d maps"
+      ]
+    },
+    {
+      "title": "Pemanfaatan Drone untuk Pemetaan Wilayah",
+      "category": "Remote Sensing",
+      "keywords": [
+        "drone",
+        "uav",
+        "pemetaan",
+        "fotogrametri"
       ]
     }
   ]
