@@ -39,16 +39,6 @@
       ]
     },
     {
-      "title": "Analisis Kepadatan Penduduk Menggunakan Heatmap di QGIS",
-      "category": "Tutorial",
-      "keywords": [
-        "heatmap",
-        "qgis",
-        "kependudukan",
-        "analisis"
-      ]
-    },
-    {
       "title": "Membuat Peta Tematik Indeks Pembangunan Manusia",
       "category": "GIS",
       "keywords": [
@@ -207,6 +197,16 @@
         "webgis",
         "no-code",
         "openstreetmap"
+      ]
+    },
+    {
+      "title": "Analisis Kepadatan Penduduk Menggunakan Heatmap di QGIS",
+      "category": "Tutorial",
+      "keywords": [
+        "heatmap",
+        "qgis",
+        "kependudukan",
+        "analisis"
       ]
     }
   ]
