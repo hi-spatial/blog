@@ -49,16 +49,6 @@
       ]
     },
     {
-      "title": "Analisis Jaringan Jalan (Network Analysis) di QGIS",
-      "category": "Tutorial",
-      "keywords": [
-        "network analysis",
-        "qgis",
-        "jalan",
-        "rute"
-      ]
-    },
-    {
       "title": "Visualisasi Topografi dan Kontur Lahan",
       "category": "GIS",
       "keywords": [
@@ -207,6 +197,16 @@
         "mitigasi",
         "sig",
         "analisis risiko"
+      ]
+    },
+    {
+      "title": "Analisis Jaringan Jalan (Network Analysis) di QGIS",
+      "category": "Tutorial",
+      "keywords": [
+        "network analysis",
+        "qgis",
+        "jalan",
+        "rute"
       ]
     }
   ]
