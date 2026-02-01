@@ -67,16 +67,6 @@
         "dem",
         "relief"
       ]
-    },
-    {
-      "title": "Pemanfaatan SIG dalam Mitigasi Bencana Alam",
-      "category": "GIS",
-      "keywords": [
-        "bencana",
-        "mitigasi",
-        "sig",
-        "analisis risiko"
-      ]
     }
   ],
   "used_topics": [
@@ -207,6 +197,16 @@
         "qgis",
         "kependudukan",
         "analisis"
+      ]
+    },
+    {
+      "title": "Pemanfaatan SIG dalam Mitigasi Bencana Alam",
+      "category": "GIS",
+      "keywords": [
+        "bencana",
+        "mitigasi",
+        "sig",
+        "analisis risiko"
       ]
     }
   ]
