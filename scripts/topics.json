@@ -27,16 +27,6 @@
         "data science",
         "analisis spasial"
       ]
-    },
-    {
-      "title": "Visualisasi Topografi dan Kontur Lahan",
-      "category": "GIS",
-      "keywords": [
-        "topografi",
-        "kontur",
-        "dem",
-        "relief"
-      ]
     }
   ],
   "used_topics": [
@@ -207,6 +197,16 @@
         "digitasi",
         "luas area",
         "spatial analysis"
+      ]
+    },
+    {
+      "title": "Visualisasi Topografi dan Kontur Lahan",
+      "category": "GIS",
+      "keywords": [
+        "topografi",
+        "kontur",
+        "dem",
+        "relief"
       ]
     }
   ]
