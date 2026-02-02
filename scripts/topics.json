@@ -39,16 +39,6 @@
       ]
     },
     {
-      "title": "Membuat Peta Tematik Indeks Pembangunan Manusia",
-      "category": "GIS",
-      "keywords": [
-        "peta tematik",
-        "ipm",
-        "kartografi",
-        "visualisasi"
-      ]
-    },
-    {
       "title": "Visualisasi Topografi dan Kontur Lahan",
       "category": "GIS",
       "keywords": [
@@ -207,6 +197,16 @@
         "qgis",
         "jalan",
         "rute"
+      ]
+    },
+    {
+      "title": "Membuat Peta Tematik Indeks Pembangunan Manusia",
+      "category": "GIS",
+      "keywords": [
+        "peta tematik",
+        "ipm",
+        "kartografi",
+        "visualisasi"
       ]
     }
   ]
