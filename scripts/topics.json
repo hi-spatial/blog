@@ -19,16 +19,6 @@
       ]
     },
     {
-      "title": "Tutorial QGIS: Digitasi Peta dan Menghitung Luas Area",
-      "category": "Tutorial",
-      "keywords": [
-        "QGIS",
-        "digitasi",
-        "luas area",
-        "spatial analysis"
-      ]
-    },
-    {
       "title": "Analisis Spasial Dasar dengan Python dan GeoPandas",
       "category": "Python",
       "keywords": [
@@ -207,6 +197,16 @@
         "ipm",
         "kartografi",
         "visualisasi"
+      ]
+    },
+    {
+      "title": "Tutorial QGIS: Digitasi Peta dan Menghitung Luas Area",
+      "category": "Tutorial",
+      "keywords": [
+        "QGIS",
+        "digitasi",
+        "luas area",
+        "spatial analysis"
       ]
     }
   ]
