@@ -9,16 +9,6 @@
   ],
   "topics": [
     {
-      "title": "Pengenalan Sistem Informasi Geografis (SIG) untuk Pemula",
-      "category": "GIS",
-      "keywords": [
-        "SIG",
-        "GIS",
-        "pemula",
-        "peta"
-      ]
-    },
-    {
       "title": "Analisis Spasial Dasar dengan Python dan GeoPandas",
       "category": "Python",
       "keywords": [
@@ -207,6 +197,16 @@
         "kontur",
         "dem",
         "relief"
+      ]
+    },
+    {
+      "title": "Pengenalan Sistem Informasi Geografis (SIG) untuk Pemula",
+      "category": "GIS",
+      "keywords": [
+        "SIG",
+        "GIS",
+        "pemula",
+        "peta"
       ]
     }
   ]
