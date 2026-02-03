@@ -7,18 +7,7 @@
     "Tutorial",
     "Data"
   ],
-  "topics": [
-    {
-      "title": "Analisis Spasial Dasar dengan Python dan GeoPandas",
-      "category": "Python",
-      "keywords": [
-        "python",
-        "geopandas",
-        "data science",
-        "analisis spasial"
-      ]
-    }
-  ],
+  "topics": [],
   "used_topics": [
     {
       "title": "Tutorial Geocoding: Mengubah Alamat Menjadi Koordinat",
@@ -207,6 +196,16 @@
         "GIS",
         "pemula",
         "peta"
+      ]
+    },
+    {
+      "title": "Analisis Spasial Dasar dengan Python dan GeoPandas",
+      "category": "Python",
+      "keywords": [
+        "python",
+        "geopandas",
+        "data science",
+        "analisis spasial"
       ]
     }
   ]
