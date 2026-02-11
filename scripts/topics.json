@@ -409,16 +409,6 @@
       ]
     },
     {
-      "title": "Introduction to STAC (SpatioTemporal Asset Catalog)",
-      "category": "Data",
-      "keywords": [
-        "stac",
-        "catalog",
-        "spatiotemporal",
-        "metadata"
-      ]
-    },
-    {
       "title": "Pemanfaatan Microsoft Planetary Computer untuk Data Geospasial",
       "category": "Data",
       "keywords": [
@@ -598,6 +588,16 @@
         "python",
         "raster",
         "citra satelit"
+      ]
+    },
+    {
+      "title": "Introduction to STAC (SpatioTemporal Asset Catalog)",
+      "category": "Data",
+      "keywords": [
+        "stac",
+        "catalog",
+        "spatiotemporal",
+        "metadata"
       ]
     }
   ]
