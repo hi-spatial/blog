@@ -9,6 +9,7 @@ from groq import Groq
 
 # Constants
 TOPICS_FILE = 'scripts/topics.json'
+GENERATED_POSTS_FILE = 'scripts/generated_posts.json'
 POSTS_DIR = '_posts'
 API_KEY = os.environ.get("GROQ_API_KEY")
 
@@ -27,6 +28,44 @@ def load_topics_data():
 def save_topics_data(data):
     with open(TOPICS_FILE, 'w') as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
+
+def load_generated_posts():
+    """Load the generated posts tracking file"""
+    if not os.path.exists(GENERATED_POSTS_FILE):
+        return {"generated_posts": []}
+    with open(GENERATED_POSTS_FILE, 'r') as f:
+        return json.load(f)
+
+def save_generated_posts(data):
+    """Save the generated posts tracking file"""
+    with open(GENERATED_POSTS_FILE, 'w') as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+
+def post_exists(title):
+    """Check if post with similar title already exists in _posts/ directory"""
+    # Generate expected filename patterns
+    slug = title.lower().replace(" ", "-")
+    slug = re.sub(r'[^a-z0-9-]', '', slug)
+
+    # Check for any date-prefixed file with this slug
+    if os.path.exists(POSTS_DIR):
+        for filename in os.listdir(POSTS_DIR):
+            if filename.endswith('-' + slug + '.md'):
+                return True
+    return False
+
+def is_post_generated(title, generated_data):
+    """Check if title already exists in generated posts tracking"""
+    for post in generated_data.get("generated_posts", []):
+        if post["title"] == title:
+            return True
+    return False
+
+def record_generated_post(metadata):
+    """Record a newly generated post in the tracking file"""
+    data = load_generated_posts()
+    data["generated_posts"].append(metadata)
+    save_generated_posts(data)
 
 def generate_post_content(topic_data):
     title = topic_data['title']
@@ -116,21 +155,30 @@ def main():
     data = load_topics_data()
     topics = data.get('topics', [])
     used_topics = data.get('used_topics', [])
+    generated_data = load_generated_posts()
 
-    # Recycle topics if empty
+    # Stop if no topics available (no recycling)
     if not topics:
         if not used_topics:
             print("No topics available in topics.json")
             exit(0)
-        print("Recycling used topics...")
-        topics = used_topics
-        used_topics = []
-        data['topics'] = topics
-        data['used_topics'] = used_topics
-        save_topics_data(data)
-        
-    # Select random topic
-    topic_data = random.choice(topics)
+        print("All topics exhausted. No more posts to generate.")
+        print(f"Total unique posts generated: {len(generated_data.get('generated_posts', []))}")
+        exit(0)
+
+    # Find a topic that hasn't been generated yet
+    available_topics = []
+    for topic in topics:
+        if not post_exists(topic['title']) and not is_post_generated(topic['title'], generated_data):
+            available_topics.append(topic)
+
+    if not available_topics:
+        print("All available topics have already been generated.")
+        print(f"Total unique posts generated: {len(generated_data.get('generated_posts', []))}")
+        exit(0)
+
+    # Select random topic from available ones
+    topic_data = random.choice(available_topics)
     print(f"Selected topic: {topic_data['title']}")
     
     # Generate content
@@ -147,7 +195,22 @@ def main():
         cat_slugs = [c.lower().replace(' ', '-') for c in fm['categories']]
         cat_path = '/'.join(cat_slugs)
         print(f"Post URL: https://hi-spatial.github.io/{cat_path}/{slug}/")
-        
+
+        # Record in generated_posts.json for deduplication tracking
+        # Calculate WIB time for metadata
+        utc_now = datetime.datetime.now(datetime.timezone.utc)
+        wib_now = utc_now + datetime.timedelta(hours=7)
+        date_str = wib_now.strftime("%Y-%m-%d")
+
+        record_generated_post({
+            "title": topic_data['title'],
+            "slug": slug,
+            "date": date_str,
+            "category": topic_data['category'],
+            "keywords": topic_data['keywords'],
+            "generated_at": wib_now.strftime("%Y-%m-%d %H:%M:%S")
+        })
+
         # Deduplication: Move to used_topics
         topics.remove(topic_data)
         used_topics.append(topic_data)

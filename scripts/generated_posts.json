@@ -1,0 +1,69 @@
+{
+  "generated_posts": [
+    {
+      "title": "Membangun Indoor Navigation System",
+      "slug": "membangun-indoor-navigation-system",
+      "date": "2026-02-11",
+      "category": "WebGIS",
+      "keywords": [
+        "indoor navigation",
+        "positioning",
+        "indoor mapping",
+        "wayfinding"
+      ],
+      "generated_at": "2026-02-11 20:49:41"
+    },
+    {
+      "title": "D3.js untuk Custom Map Visualizations",
+      "slug": "d3js-untuk-custom-map-visualizations",
+      "date": "2026-02-11",
+      "category": "WebGIS",
+      "keywords": [
+        "d3.js",
+        "javascript",
+        "custom visualization",
+        "data visualization"
+      ],
+      "generated_at": "2026-02-11 20:49:51"
+    },
+    {
+      "title": "Manipulasi Geometri dengan Shapely",
+      "slug": "manipulasi-geometri-dengan-shapely",
+      "date": "2026-02-11",
+      "category": "Python",
+      "keywords": [
+        "shapely",
+        "python",
+        "geometri",
+        "spatial operations"
+      ],
+      "generated_at": "2026-02-11 20:50:26"
+    },
+    {
+      "title": "SIG untuk Perencanaan Transportasi dan Transpor Publik",
+      "slug": "sig-untuk-perencanaan-transportasi-dan-transpor-publik",
+      "date": "2026-02-11",
+      "category": "GIS",
+      "keywords": [
+        "transportasi",
+        "transit",
+        "network analysis",
+        "perencanaan"
+      ],
+      "generated_at": "2026-02-11 20:50:29"
+    },
+    {
+      "title": "Mengelola Data Raster dengan Rasterio",
+      "slug": "mengelola-data-raster-dengan-rasterio",
+      "date": "2026-02-11",
+      "category": "Python",
+      "keywords": [
+        "rasterio",
+        "python",
+        "raster",
+        "citra satelit"
+      ],
+      "generated_at": "2026-02-11 20:50:33"
+    }
+  ]
+}

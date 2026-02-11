@@ -196,6 +196,347 @@
         "data science",
         "analisis spasial"
       ]
+    },
+    {
+      "title": "Automatisasi QGIS dengan Processing Graphical Modeler",
+      "category": "Tutorial",
+      "keywords": [
+        "qgis",
+        "automation",
+        "workflow",
+        "graphical modeler"
+      ]
+    },
+    {
+      "title": "QGIS Plugin: QuickOSM untuk Download Data OpenStreetMap",
+      "category": "GIS",
+      "keywords": [
+        "qgis",
+        "quickosm",
+        "openstreetmap",
+        "osm",
+        "plugin"
+      ]
+    },
+    {
+      "title": "Analisis Buffer dan Overlay dalam Perencanaan Wilayah",
+      "category": "GIS",
+      "keywords": [
+        "buffer",
+        "overlay",
+        "spatial analysis",
+        "perencanaan wilayah"
+      ]
+    },
+    {
+      "title": "Membuat Layout Peta Profesional dengan QGIS Print Layout",
+      "category": "Tutorial",
+      "keywords": [
+        "qgis",
+        "print layout",
+        "kartografi",
+        "peta profesional"
+      ]
+    },
+    {
+      "title": "QGIS Times Manager untuk Visualisasi Data Spasial Temporal",
+      "category": "Tutorial",
+      "keywords": [
+        "qgis",
+        "times manager",
+        "temporal",
+        "animasi peta"
+      ]
+    },
+    {
+      "title": "Visualisasi Data Geospasial dengan Folium",
+      "category": "Python",
+      "keywords": [
+        "folium",
+        "python",
+        "interactive maps",
+        "visualisasi"
+      ]
+    },
+    {
+      "title": "GDAL/OGR: Command Line Tools untuk Geospatial Data Processing",
+      "category": "Python",
+      "keywords": [
+        "gdal",
+        "ogr",
+        "command line",
+        "geospatial processing"
+      ]
+    },
+    {
+      "title": "Analisis Geostatistik dengan PyKrige",
+      "category": "Python",
+      "keywords": [
+        "pykrige",
+        "kriging",
+        "geostatistik",
+        "interpolasi"
+      ]
+    },
+    {
+      "title": "Membangun WebGIS dengan OpenLayers",
+      "category": "WebGIS",
+      "keywords": [
+        "openlayers",
+        "javascript",
+        "webgis",
+        "peta interaktif"
+      ]
+    },
+    {
+      "title": "Visualisasi Data Geospasial Besar dengan Deck.gl",
+      "category": "WebGIS",
+      "keywords": [
+        "deck.gl",
+        "javascript",
+        "big data",
+        "visualisasi"
+      ]
+    },
+    {
+      "title": "CesiumJS: 3D Globe dan Peta 3D di Browser",
+      "category": "WebGIS",
+      "keywords": [
+        "cesiumjs",
+        "3d maps",
+        "webgis",
+        "globe"
+      ]
+    },
+    {
+      "title": "MapLibre GL: Open Source Alternatif ke Mapbox",
+      "category": "WebGIS",
+      "keywords": [
+        "maplibre",
+        "gl js",
+        "vector maps",
+        "open source"
+      ]
+    },
+    {
+      "title": "Pengolahan Citra Sentinel-2 dengan Sentinel Hub",
+      "category": "Remote Sensing",
+      "keywords": [
+        "sentinel-2",
+        "sentinel hub",
+        "remote sensing",
+        "citra satelit"
+      ]
+    },
+    {
+      "title": "Analisis NDVI untuk Kesehatan Vegetasi dengan Landsat",
+      "category": "Remote Sensing",
+      "keywords": [
+        "ndvi",
+        "landsat",
+        "vegetasi",
+        "pertanian"
+      ]
+    },
+    {
+      "title": "Mengenal SAR (Synthetic Aperture Radar) Data",
+      "category": "Remote Sensing",
+      "keywords": [
+        "sar",
+        "radar",
+        "remote sensing",
+        "synthetic aperture"
+      ]
+    },
+    {
+      "title": "Klasifikasi Tutupan Lahan dengan Google Earth Engine",
+      "category": "Remote Sensing",
+      "keywords": [
+        "gee",
+        "klasifikasi",
+        "tutupan lahan",
+        "machine learning"
+      ]
+    },
+    {
+      "title": "Deteksi Perubahan Lahan dengan Time Series Analysis",
+      "category": "Remote Sensing",
+      "keywords": [
+        "time series",
+        "perubahan lahan",
+        "change detection",
+        "monitoring"
+      ]
+    },
+    {
+      "title": "Analisis Site Selection untuk Lokasi Bisnis dengan GIS",
+      "category": "GIS",
+      "keywords": [
+        "site selection",
+        "lokasi bisnis",
+        "spatial analysis",
+        "location intelligence"
+      ]
+    },
+    {
+      "title": "Pemetaan Kerawanan Banjur untuk Mitigasi Bencana",
+      "category": "GIS",
+      "keywords": [
+        "banjir",
+        "mitigasi bencana",
+        "risk mapping",
+        "kerawanan"
+      ]
+    },
+    {
+      "title": "SIG dalam Pertanian Presisi (Precision Agriculture)",
+      "category": "GIS",
+      "keywords": [
+        "pertanian presisi",
+        "precision agriculture",
+        "yield mapping",
+        "farming"
+      ]
+    },
+    {
+      "title": "Analisis Walkability dan Transit-Oriented Development (TOD)",
+      "category": "GIS",
+      "keywords": [
+        "walkability",
+        "tod",
+        "urban planning",
+        "transit oriented"
+      ]
+    },
+    {
+      "title": "Introduction to STAC (SpatioTemporal Asset Catalog)",
+      "category": "Data",
+      "keywords": [
+        "stac",
+        "catalog",
+        "spatiotemporal",
+        "metadata"
+      ]
+    },
+    {
+      "title": "Pemanfaatan Microsoft Planetary Computer untuk Data Geospasial",
+      "category": "Data",
+      "keywords": [
+        "microsoft planetary computer",
+        "environmental data",
+        "catalog",
+        "geospatial"
+      ]
+    },
+    {
+      "title": "Cara Menggunakan PgRouting untuk Routing Network",
+      "category": "Data",
+      "keywords": [
+        "pgrouting",
+        "postgresql",
+        "routing",
+        "network analysis"
+      ]
+    },
+    {
+      "title": "Tile Server dengan TileServer GL dan MBTiles",
+      "category": "WebGIS",
+      "keywords": [
+        "tileserver gl",
+        "mbtiles",
+        "map tiles",
+        "self-hosted"
+      ]
+    },
+    {
+      "title": "Pengelolaan Data Geospasial Besar dengan GeoPackage",
+      "category": "Data",
+      "keywords": [
+        "geopackage",
+        "ogc",
+        "spatial database",
+        "portable format"
+      ]
+    },
+    {
+      "title": "Pengenalan Machine Learning untuk Data Geospasial",
+      "category": "Python",
+      "keywords": [
+        "machine learning",
+        "geospatial",
+        "ml",
+        "prediction"
+      ]
+    },
+    {
+      "title": "3D City Models dengan CityGML",
+      "category": "Data",
+      "keywords": [
+        "citygml",
+        "3d city",
+        "urban model",
+        "ogc"
+      ]
+    },
+    {
+      "title": "Real-time Data Streaming untuk WebGIS dengan WebSockets",
+      "category": "WebGIS",
+      "keywords": [
+        "websockets",
+        "real-time",
+        "streaming",
+        "live maps"
+      ]
+    },
+    {
+      "title": "Pemetaan Batas Wilayah Administrasi Indonesia",
+      "category": "GIS",
+      "keywords": [
+        "indonesia",
+        "batas wilayah",
+        "administrasi",
+        "boundary"
+      ]
+    },
+    {
+      "title": "Analisis Risiko Gempa Bumi dengan Data Geospasial",
+      "category": "GIS",
+      "keywords": [
+        "gempa",
+        "seismic",
+        "risk assessment",
+        "bencana"
+      ]
+    },
+    {
+      "title": "Integrasi Data BIG (Badan Informasi Geospasial) ke dalam QGIS",
+      "category": "GIS",
+      "keywords": [
+        "big",
+        "batan informasi geospasial",
+        "indonesia",
+        "data nasional"
+      ]
+    },
+    {
+      "title": "Membuat Peta Sebaran Penduduk dengan Data Kemendagri",
+      "category": "GIS",
+      "keywords": [
+        "penduduk",
+        "kemendagri",
+        "demografi",
+        "populasi"
+      ]
+    },
+    {
+      "title": "Automatisasi Workflow Geospatial dengan Airflow",
+      "category": "Data",
+      "keywords": [
+        "airflow",
+        "workflow",
+        "pipeline",
+        "automation"
+      ]
     }
   ],
   "used_topics": [
@@ -207,6 +548,56 @@
         "osm",
         "qgis",
         "open data"
+      ]
+    },
+    {
+      "title": "Membangun Indoor Navigation System",
+      "category": "WebGIS",
+      "keywords": [
+        "indoor navigation",
+        "positioning",
+        "indoor mapping",
+        "wayfinding"
+      ]
+    },
+    {
+      "title": "D3.js untuk Custom Map Visualizations",
+      "category": "WebGIS",
+      "keywords": [
+        "d3.js",
+        "javascript",
+        "custom visualization",
+        "data visualization"
+      ]
+    },
+    {
+      "title": "Manipulasi Geometri dengan Shapely",
+      "category": "Python",
+      "keywords": [
+        "shapely",
+        "python",
+        "geometri",
+        "spatial operations"
+      ]
+    },
+    {
+      "title": "SIG untuk Perencanaan Transportasi dan Transpor Publik",
+      "category": "GIS",
+      "keywords": [
+        "transportasi",
+        "transit",
+        "network analysis",
+        "perencanaan"
+      ]
+    },
+    {
+      "title": "Mengelola Data Raster dengan Rasterio",
+      "category": "Python",
+      "keywords": [
+        "rasterio",
+        "python",
+        "raster",
+        "citra satelit"
       ]
     }
   ]
