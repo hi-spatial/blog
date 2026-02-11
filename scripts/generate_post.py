@@ -116,10 +116,18 @@ def main():
     data = load_topics_data()
     topics = data.get('topics', [])
     used_topics = data.get('used_topics', [])
-    
+
+    # Recycle topics if empty
     if not topics:
-        print("No topics available in topics.json")
-        exit(0)
+        if not used_topics:
+            print("No topics available in topics.json")
+            exit(0)
+        print("Recycling used topics...")
+        topics = used_topics
+        used_topics = []
+        data['topics'] = topics
+        data['used_topics'] = used_topics
+        save_topics_data(data)
         
     # Select random topic
     topic_data = random.choice(topics)
