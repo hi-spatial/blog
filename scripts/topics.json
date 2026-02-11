@@ -7,8 +7,7 @@
     "Tutorial",
     "Data"
   ],
-  "topics": [],
-  "used_topics": [
+  "topics": [
     {
       "title": "Tutorial Geocoding: Mengubah Alamat Menjadi Koordinat",
       "category": "Data",
@@ -67,16 +66,6 @@
         "geojson",
         "kml",
         "format data"
-      ]
-    },
-    {
-      "title": "Cara Menggunakan OpenStreetMap Data di QGIS",
-      "category": "GIS",
-      "keywords": [
-        "openstreetmap",
-        "osm",
-        "qgis",
-        "open data"
       ]
     },
     {
@@ -206,6 +195,18 @@
         "geopandas",
         "data science",
         "analisis spasial"
+      ]
+    }
+  ],
+  "used_topics": [
+    {
+      "title": "Cara Menggunakan OpenStreetMap Data di QGIS",
+      "category": "GIS",
+      "keywords": [
+        "openstreetmap",
+        "osm",
+        "qgis",
+        "open data"
       ]
     }
   ]
