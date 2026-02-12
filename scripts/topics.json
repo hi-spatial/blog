@@ -439,16 +439,6 @@
       ]
     },
     {
-      "title": "Pengelolaan Data Geospasial Besar dengan GeoPackage",
-      "category": "Data",
-      "keywords": [
-        "geopackage",
-        "ogc",
-        "spatial database",
-        "portable format"
-      ]
-    },
-    {
       "title": "Pengenalan Machine Learning untuk Data Geospasial",
       "category": "Python",
       "keywords": [
@@ -598,6 +588,16 @@
         "catalog",
         "spatiotemporal",
         "metadata"
+      ]
+    },
+    {
+      "title": "Pengelolaan Data Geospasial Besar dengan GeoPackage",
+      "category": "Data",
+      "keywords": [
+        "geopackage",
+        "ogc",
+        "spatial database",
+        "portable format"
       ]
     }
   ]
