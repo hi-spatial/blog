@@ -459,16 +459,6 @@
       ]
     },
     {
-      "title": "Pemetaan Batas Wilayah Administrasi Indonesia",
-      "category": "GIS",
-      "keywords": [
-        "indonesia",
-        "batas wilayah",
-        "administrasi",
-        "boundary"
-      ]
-    },
-    {
       "title": "Analisis Risiko Gempa Bumi dengan Data Geospasial",
       "category": "GIS",
       "keywords": [
@@ -598,6 +588,16 @@
         "javascript",
         "webgis",
         "peta interaktif"
+      ]
+    },
+    {
+      "title": "Pemetaan Batas Wilayah Administrasi Indonesia",
+      "category": "GIS",
+      "keywords": [
+        "indonesia",
+        "batas wilayah",
+        "administrasi",
+        "boundary"
       ]
     }
   ]
