@@ -229,16 +229,6 @@
       ]
     },
     {
-      "title": "Membuat Layout Peta Profesional dengan QGIS Print Layout",
-      "category": "Tutorial",
-      "keywords": [
-        "qgis",
-        "print layout",
-        "kartografi",
-        "peta profesional"
-      ]
-    },
-    {
       "title": "QGIS Times Manager untuk Visualisasi Data Spasial Temporal",
       "category": "Tutorial",
       "keywords": [
@@ -598,6 +588,16 @@
         "batas wilayah",
         "administrasi",
         "boundary"
+      ]
+    },
+    {
+      "title": "Membuat Layout Peta Profesional dengan QGIS Print Layout",
+      "category": "Tutorial",
+      "keywords": [
+        "qgis",
+        "print layout",
+        "kartografi",
+        "peta profesional"
       ]
     }
   ]
