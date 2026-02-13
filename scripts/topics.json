@@ -239,16 +239,6 @@
       ]
     },
     {
-      "title": "Visualisasi Data Geospasial dengan Folium",
-      "category": "Python",
-      "keywords": [
-        "folium",
-        "python",
-        "interactive maps",
-        "visualisasi"
-      ]
-    },
-    {
       "title": "Analisis Geostatistik dengan PyKrige",
       "category": "Python",
       "keywords": [
@@ -598,6 +588,16 @@
         "ogr",
         "command line",
         "geospatial processing"
+      ]
+    },
+    {
+      "title": "Visualisasi Data Geospasial dengan Folium",
+      "category": "Python",
+      "keywords": [
+        "folium",
+        "python",
+        "interactive maps",
+        "visualisasi"
       ]
     }
   ]
