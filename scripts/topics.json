@@ -249,16 +249,6 @@
       ]
     },
     {
-      "title": "GDAL/OGR: Command Line Tools untuk Geospatial Data Processing",
-      "category": "Python",
-      "keywords": [
-        "gdal",
-        "ogr",
-        "command line",
-        "geospatial processing"
-      ]
-    },
-    {
       "title": "Analisis Geostatistik dengan PyKrige",
       "category": "Python",
       "keywords": [
@@ -598,6 +588,16 @@
         "print layout",
         "kartografi",
         "peta profesional"
+      ]
+    },
+    {
+      "title": "GDAL/OGR: Command Line Tools untuk Geospatial Data Processing",
+      "category": "Python",
+      "keywords": [
+        "gdal",
+        "ogr",
+        "command line",
+        "geospatial processing"
       ]
     }
   ]
