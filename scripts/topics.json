@@ -279,16 +279,6 @@
       ]
     },
     {
-      "title": "Analisis NDVI untuk Kesehatan Vegetasi dengan Landsat",
-      "category": "Remote Sensing",
-      "keywords": [
-        "ndvi",
-        "landsat",
-        "vegetasi",
-        "pertanian"
-      ]
-    },
-    {
       "title": "Mengenal SAR (Synthetic Aperture Radar) Data",
       "category": "Remote Sensing",
       "keywords": [
@@ -598,6 +588,16 @@
         "environmental data",
         "catalog",
         "geospatial"
+      ]
+    },
+    {
+      "title": "Analisis NDVI untuk Kesehatan Vegetasi dengan Landsat",
+      "category": "Remote Sensing",
+      "keywords": [
+        "ndvi",
+        "landsat",
+        "vegetasi",
+        "pertanian"
       ]
     }
   ]
