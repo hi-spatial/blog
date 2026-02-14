@@ -279,16 +279,6 @@
       ]
     },
     {
-      "title": "Pengolahan Citra Sentinel-2 dengan Sentinel Hub",
-      "category": "Remote Sensing",
-      "keywords": [
-        "sentinel-2",
-        "sentinel hub",
-        "remote sensing",
-        "citra satelit"
-      ]
-    },
-    {
       "title": "Analisis NDVI untuk Kesehatan Vegetasi dengan Landsat",
       "category": "Remote Sensing",
       "keywords": [
@@ -598,6 +588,16 @@
         "python",
         "interactive maps",
         "visualisasi"
+      ]
+    },
+    {
+      "title": "Pengolahan Citra Sentinel-2 dengan Sentinel Hub",
+      "category": "Remote Sensing",
+      "keywords": [
+        "sentinel-2",
+        "sentinel hub",
+        "remote sensing",
+        "citra satelit"
       ]
     }
   ]
