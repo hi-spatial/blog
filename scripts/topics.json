@@ -359,16 +359,6 @@
       ]
     },
     {
-      "title": "Pemanfaatan Microsoft Planetary Computer untuk Data Geospasial",
-      "category": "Data",
-      "keywords": [
-        "microsoft planetary computer",
-        "environmental data",
-        "catalog",
-        "geospatial"
-      ]
-    },
-    {
       "title": "Cara Menggunakan PgRouting untuk Routing Network",
       "category": "Data",
       "keywords": [
@@ -598,6 +588,16 @@
         "sentinel hub",
         "remote sensing",
         "citra satelit"
+      ]
+    },
+    {
+      "title": "Pemanfaatan Microsoft Planetary Computer untuk Data Geospasial",
+      "category": "Data",
+      "keywords": [
+        "microsoft planetary computer",
+        "environmental data",
+        "catalog",
+        "geospatial"
       ]
     }
   ]
