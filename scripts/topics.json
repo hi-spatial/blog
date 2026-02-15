@@ -329,16 +329,6 @@
       ]
     },
     {
-      "title": "Analisis Walkability dan Transit-Oriented Development (TOD)",
-      "category": "GIS",
-      "keywords": [
-        "walkability",
-        "tod",
-        "urban planning",
-        "transit oriented"
-      ]
-    },
-    {
       "title": "Cara Menggunakan PgRouting untuk Routing Network",
       "category": "Data",
       "keywords": [
@@ -598,6 +588,16 @@
         "gl js",
         "vector maps",
         "open source"
+      ]
+    },
+    {
+      "title": "Analisis Walkability dan Transit-Oriented Development (TOD)",
+      "category": "GIS",
+      "keywords": [
+        "walkability",
+        "tod",
+        "urban planning",
+        "transit oriented"
       ]
     }
   ]
