@@ -359,16 +359,6 @@
       ]
     },
     {
-      "title": "3D City Models dengan CityGML",
-      "category": "Data",
-      "keywords": [
-        "citygml",
-        "3d city",
-        "urban model",
-        "ogc"
-      ]
-    },
-    {
       "title": "Real-time Data Streaming untuk WebGIS dengan WebSockets",
       "category": "WebGIS",
       "keywords": [
@@ -598,6 +588,16 @@
         "tod",
         "urban planning",
         "transit oriented"
+      ]
+    },
+    {
+      "title": "3D City Models dengan CityGML",
+      "category": "Data",
+      "keywords": [
+        "citygml",
+        "3d city",
+        "urban model",
+        "ogc"
       ]
     }
   ]
