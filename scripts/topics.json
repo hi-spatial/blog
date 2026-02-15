@@ -269,16 +269,6 @@
       ]
     },
     {
-      "title": "MapLibre GL: Open Source Alternatif ke Mapbox",
-      "category": "WebGIS",
-      "keywords": [
-        "maplibre",
-        "gl js",
-        "vector maps",
-        "open source"
-      ]
-    },
-    {
       "title": "Mengenal SAR (Synthetic Aperture Radar) Data",
       "category": "Remote Sensing",
       "keywords": [
@@ -598,6 +588,16 @@
         "landsat",
         "vegetasi",
         "pertanian"
+      ]
+    },
+    {
+      "title": "MapLibre GL: Open Source Alternatif ke Mapbox",
+      "category": "WebGIS",
+      "keywords": [
+        "maplibre",
+        "gl js",
+        "vector maps",
+        "open source"
       ]
     }
   ]
