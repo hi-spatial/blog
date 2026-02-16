@@ -259,16 +259,6 @@
       ]
     },
     {
-      "title": "CesiumJS: 3D Globe dan Peta 3D di Browser",
-      "category": "WebGIS",
-      "keywords": [
-        "cesiumjs",
-        "3d maps",
-        "webgis",
-        "globe"
-      ]
-    },
-    {
       "title": "Mengenal SAR (Synthetic Aperture Radar) Data",
       "category": "Remote Sensing",
       "keywords": [
@@ -598,6 +588,16 @@
         "3d city",
         "urban model",
         "ogc"
+      ]
+    },
+    {
+      "title": "CesiumJS: 3D Globe dan Peta 3D di Browser",
+      "category": "WebGIS",
+      "keywords": [
+        "cesiumjs",
+        "3d maps",
+        "webgis",
+        "globe"
       ]
     }
   ]
