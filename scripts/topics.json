@@ -379,16 +379,6 @@
       ]
     },
     {
-      "title": "Membuat Peta Sebaran Penduduk dengan Data Kemendagri",
-      "category": "GIS",
-      "keywords": [
-        "penduduk",
-        "kemendagri",
-        "demografi",
-        "populasi"
-      ]
-    },
-    {
       "title": "Automatisasi Workflow Geospatial dengan Airflow",
       "category": "Data",
       "keywords": [
@@ -598,6 +588,16 @@
         "3d maps",
         "webgis",
         "globe"
+      ]
+    },
+    {
+      "title": "Membuat Peta Sebaran Penduduk dengan Data Kemendagri",
+      "category": "GIS",
+      "keywords": [
+        "penduduk",
+        "kemendagri",
+        "demografi",
+        "populasi"
       ]
     }
   ]
