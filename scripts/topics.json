@@ -309,16 +309,6 @@
       ]
     },
     {
-      "title": "SIG dalam Pertanian Presisi (Precision Agriculture)",
-      "category": "GIS",
-      "keywords": [
-        "pertanian presisi",
-        "precision agriculture",
-        "yield mapping",
-        "farming"
-      ]
-    },
-    {
       "title": "Cara Menggunakan PgRouting untuk Routing Network",
       "category": "Data",
       "keywords": [
@@ -598,6 +588,16 @@
         "kemendagri",
         "demografi",
         "populasi"
+      ]
+    },
+    {
+      "title": "SIG dalam Pertanian Presisi (Precision Agriculture)",
+      "category": "GIS",
+      "keywords": [
+        "pertanian presisi",
+        "precision agriculture",
+        "yield mapping",
+        "farming"
       ]
     }
   ]
