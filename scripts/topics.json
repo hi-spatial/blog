@@ -239,16 +239,6 @@
       ]
     },
     {
-      "title": "Analisis Geostatistik dengan PyKrige",
-      "category": "Python",
-      "keywords": [
-        "pykrige",
-        "kriging",
-        "geostatistik",
-        "interpolasi"
-      ]
-    },
-    {
       "title": "Visualisasi Data Geospasial Besar dengan Deck.gl",
       "category": "WebGIS",
       "keywords": [
@@ -598,6 +588,16 @@
         "seismic",
         "risk assessment",
         "bencana"
+      ]
+    },
+    {
+      "title": "Analisis Geostatistik dengan PyKrige",
+      "category": "Python",
+      "keywords": [
+        "pykrige",
+        "kriging",
+        "geostatistik",
+        "interpolasi"
       ]
     }
   ]
