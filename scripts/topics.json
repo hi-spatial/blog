@@ -349,16 +349,6 @@
       ]
     },
     {
-      "title": "Analisis Risiko Gempa Bumi dengan Data Geospasial",
-      "category": "GIS",
-      "keywords": [
-        "gempa",
-        "seismic",
-        "risk assessment",
-        "bencana"
-      ]
-    },
-    {
       "title": "Integrasi Data BIG (Badan Informasi Geospasial) ke dalam QGIS",
       "category": "GIS",
       "keywords": [
@@ -598,6 +588,16 @@
         "workflow",
         "pipeline",
         "automation"
+      ]
+    },
+    {
+      "title": "Analisis Risiko Gempa Bumi dengan Data Geospasial",
+      "category": "GIS",
+      "keywords": [
+        "gempa",
+        "seismic",
+        "risk assessment",
+        "bencana"
       ]
     }
   ]
