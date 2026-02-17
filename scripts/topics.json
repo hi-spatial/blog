@@ -367,16 +367,6 @@
         "indonesia",
         "data nasional"
       ]
-    },
-    {
-      "title": "Automatisasi Workflow Geospatial dengan Airflow",
-      "category": "Data",
-      "keywords": [
-        "airflow",
-        "workflow",
-        "pipeline",
-        "automation"
-      ]
     }
   ],
   "used_topics": [
@@ -598,6 +588,16 @@
         "precision agriculture",
         "yield mapping",
         "farming"
+      ]
+    },
+    {
+      "title": "Automatisasi Workflow Geospatial dengan Airflow",
+      "category": "Data",
+      "keywords": [
+        "airflow",
+        "workflow",
+        "pipeline",
+        "automation"
       ]
     }
   ]
