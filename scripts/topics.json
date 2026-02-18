@@ -279,16 +279,6 @@
       ]
     },
     {
-      "title": "Cara Menggunakan PgRouting untuk Routing Network",
-      "category": "Data",
-      "keywords": [
-        "pgrouting",
-        "postgresql",
-        "routing",
-        "network analysis"
-      ]
-    },
-    {
       "title": "Tile Server dengan TileServer GL dan MBTiles",
       "category": "WebGIS",
       "keywords": [
@@ -598,6 +588,16 @@
         "javascript",
         "big data",
         "visualisasi"
+      ]
+    },
+    {
+      "title": "Cara Menggunakan PgRouting untuk Routing Network",
+      "category": "Data",
+      "keywords": [
+        "pgrouting",
+        "postgresql",
+        "routing",
+        "network analysis"
       ]
     }
   ]
