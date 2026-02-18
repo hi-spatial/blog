@@ -239,16 +239,6 @@
       ]
     },
     {
-      "title": "Visualisasi Data Geospasial Besar dengan Deck.gl",
-      "category": "WebGIS",
-      "keywords": [
-        "deck.gl",
-        "javascript",
-        "big data",
-        "visualisasi"
-      ]
-    },
-    {
       "title": "Mengenal SAR (Synthetic Aperture Radar) Data",
       "category": "Remote Sensing",
       "keywords": [
@@ -598,6 +588,16 @@
         "klasifikasi",
         "tutupan lahan",
         "machine learning"
+      ]
+    },
+    {
+      "title": "Visualisasi Data Geospasial Besar dengan Deck.gl",
+      "category": "WebGIS",
+      "keywords": [
+        "deck.gl",
+        "javascript",
+        "big data",
+        "visualisasi"
       ]
     }
   ]
