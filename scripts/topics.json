@@ -259,16 +259,6 @@
       ]
     },
     {
-      "title": "Klasifikasi Tutupan Lahan dengan Google Earth Engine",
-      "category": "Remote Sensing",
-      "keywords": [
-        "gee",
-        "klasifikasi",
-        "tutupan lahan",
-        "machine learning"
-      ]
-    },
-    {
       "title": "Deteksi Perubahan Lahan dengan Time Series Analysis",
       "category": "Remote Sensing",
       "keywords": [
@@ -598,6 +588,16 @@
         "kriging",
         "geostatistik",
         "interpolasi"
+      ]
+    },
+    {
+      "title": "Klasifikasi Tutupan Lahan dengan Google Earth Engine",
+      "category": "Remote Sensing",
+      "keywords": [
+        "gee",
+        "klasifikasi",
+        "tutupan lahan",
+        "machine learning"
       ]
     }
   ]
