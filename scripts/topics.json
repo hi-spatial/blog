@@ -307,16 +307,6 @@
         "streaming",
         "live maps"
       ]
-    },
-    {
-      "title": "Integrasi Data BIG (Badan Informasi Geospasial) ke dalam QGIS",
-      "category": "GIS",
-      "keywords": [
-        "big",
-        "batan informasi geospasial",
-        "indonesia",
-        "data nasional"
-      ]
     }
   ],
   "used_topics": [
@@ -598,6 +588,16 @@
         "postgresql",
         "routing",
         "network analysis"
+      ]
+    },
+    {
+      "title": "Integrasi Data BIG (Badan Informasi Geospasial) ke dalam QGIS",
+      "category": "GIS",
+      "keywords": [
+        "big",
+        "batan informasi geospasial",
+        "indonesia",
+        "data nasional"
       ]
     }
   ]
