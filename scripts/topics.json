@@ -198,16 +198,6 @@
       ]
     },
     {
-      "title": "Automatisasi QGIS dengan Processing Graphical Modeler",
-      "category": "Tutorial",
-      "keywords": [
-        "qgis",
-        "automation",
-        "workflow",
-        "graphical modeler"
-      ]
-    },
-    {
       "title": "QGIS Plugin: QuickOSM untuk Download Data OpenStreetMap",
       "category": "GIS",
       "keywords": [
@@ -598,6 +588,16 @@
         "batan informasi geospasial",
         "indonesia",
         "data nasional"
+      ]
+    },
+    {
+      "title": "Automatisasi QGIS dengan Processing Graphical Modeler",
+      "category": "Tutorial",
+      "keywords": [
+        "qgis",
+        "automation",
+        "workflow",
+        "graphical modeler"
       ]
     }
   ]
