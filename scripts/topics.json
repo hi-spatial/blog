@@ -239,16 +239,6 @@
       ]
     },
     {
-      "title": "Deteksi Perubahan Lahan dengan Time Series Analysis",
-      "category": "Remote Sensing",
-      "keywords": [
-        "time series",
-        "perubahan lahan",
-        "change detection",
-        "monitoring"
-      ]
-    },
-    {
       "title": "Analisis Site Selection untuk Lokasi Bisnis dengan GIS",
       "category": "GIS",
       "keywords": [
@@ -598,6 +588,16 @@
         "automation",
         "workflow",
         "graphical modeler"
+      ]
+    },
+    {
+      "title": "Deteksi Perubahan Lahan dengan Time Series Analysis",
+      "category": "Remote Sensing",
+      "keywords": [
+        "time series",
+        "perubahan lahan",
+        "change detection",
+        "monitoring"
       ]
     }
   ]
