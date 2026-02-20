@@ -257,16 +257,6 @@
         "ml",
         "prediction"
       ]
-    },
-    {
-      "title": "Real-time Data Streaming untuk WebGIS dengan WebSockets",
-      "category": "WebGIS",
-      "keywords": [
-        "websockets",
-        "real-time",
-        "streaming",
-        "live maps"
-      ]
     }
   ],
   "used_topics": [
@@ -598,6 +588,16 @@
         "radar",
         "remote sensing",
         "synthetic aperture"
+      ]
+    },
+    {
+      "title": "Real-time Data Streaming untuk WebGIS dengan WebSockets",
+      "category": "WebGIS",
+      "keywords": [
+        "websockets",
+        "real-time",
+        "streaming",
+        "live maps"
       ]
     }
   ]
