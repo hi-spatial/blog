@@ -209,16 +209,6 @@
       ]
     },
     {
-      "title": "Analisis Buffer dan Overlay dalam Perencanaan Wilayah",
-      "category": "GIS",
-      "keywords": [
-        "buffer",
-        "overlay",
-        "spatial analysis",
-        "perencanaan wilayah"
-      ]
-    },
-    {
       "title": "QGIS Times Manager untuk Visualisasi Data Spasial Temporal",
       "category": "Tutorial",
       "keywords": [
@@ -598,6 +588,16 @@
         "perubahan lahan",
         "change detection",
         "monitoring"
+      ]
+    },
+    {
+      "title": "Analisis Buffer dan Overlay dalam Perencanaan Wilayah",
+      "category": "GIS",
+      "keywords": [
+        "buffer",
+        "overlay",
+        "spatial analysis",
+        "perencanaan wilayah"
       ]
     }
   ]
