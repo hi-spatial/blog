@@ -219,16 +219,6 @@
       ]
     },
     {
-      "title": "Mengenal SAR (Synthetic Aperture Radar) Data",
-      "category": "Remote Sensing",
-      "keywords": [
-        "sar",
-        "radar",
-        "remote sensing",
-        "synthetic aperture"
-      ]
-    },
-    {
       "title": "Analisis Site Selection untuk Lokasi Bisnis dengan GIS",
       "category": "GIS",
       "keywords": [
@@ -598,6 +588,16 @@
         "overlay",
         "spatial analysis",
         "perencanaan wilayah"
+      ]
+    },
+    {
+      "title": "Mengenal SAR (Synthetic Aperture Radar) Data",
+      "category": "Remote Sensing",
+      "keywords": [
+        "sar",
+        "radar",
+        "remote sensing",
+        "synthetic aperture"
       ]
     }
   ]
