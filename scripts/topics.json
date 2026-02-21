@@ -219,16 +219,6 @@
       ]
     },
     {
-      "title": "Pemetaan Kerawanan Banjur untuk Mitigasi Bencana",
-      "category": "GIS",
-      "keywords": [
-        "banjir",
-        "mitigasi bencana",
-        "risk mapping",
-        "kerawanan"
-      ]
-    },
-    {
       "title": "Pengenalan Machine Learning untuk Data Geospasial",
       "category": "Python",
       "keywords": [
@@ -598,6 +588,16 @@
         "times manager",
         "temporal",
         "animasi peta"
+      ]
+    },
+    {
+      "title": "Pemetaan Kerawanan Banjur untuk Mitigasi Bencana",
+      "category": "GIS",
+      "keywords": [
+        "banjir",
+        "mitigasi bencana",
+        "risk mapping",
+        "kerawanan"
       ]
     }
   ]
