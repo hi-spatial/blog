@@ -209,16 +209,6 @@
       ]
     },
     {
-      "title": "QGIS Times Manager untuk Visualisasi Data Spasial Temporal",
-      "category": "Tutorial",
-      "keywords": [
-        "qgis",
-        "times manager",
-        "temporal",
-        "animasi peta"
-      ]
-    },
-    {
       "title": "Analisis Site Selection untuk Lokasi Bisnis dengan GIS",
       "category": "GIS",
       "keywords": [
@@ -598,6 +588,16 @@
         "mbtiles",
         "map tiles",
         "self-hosted"
+      ]
+    },
+    {
+      "title": "QGIS Times Manager untuk Visualisasi Data Spasial Temporal",
+      "category": "Tutorial",
+      "keywords": [
+        "qgis",
+        "times manager",
+        "temporal",
+        "animasi peta"
       ]
     }
   ]
