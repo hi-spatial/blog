@@ -196,16 +196,6 @@
         "data science",
         "analisis spasial"
       ]
-    },
-    {
-      "title": "Pengenalan Machine Learning untuk Data Geospasial",
-      "category": "Python",
-      "keywords": [
-        "machine learning",
-        "geospatial",
-        "ml",
-        "prediction"
-      ]
     }
   ],
   "used_topics": [
@@ -598,6 +588,16 @@
         "lokasi bisnis",
         "spatial analysis",
         "location intelligence"
+      ]
+    },
+    {
+      "title": "Pengenalan Machine Learning untuk Data Geospasial",
+      "category": "Python",
+      "keywords": [
+        "machine learning",
+        "geospatial",
+        "ml",
+        "prediction"
       ]
     }
   ]
