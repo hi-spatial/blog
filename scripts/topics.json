@@ -198,17 +198,6 @@
       ]
     },
     {
-      "title": "QGIS Plugin: QuickOSM untuk Download Data OpenStreetMap",
-      "category": "GIS",
-      "keywords": [
-        "qgis",
-        "quickosm",
-        "openstreetmap",
-        "osm",
-        "plugin"
-      ]
-    },
-    {
       "title": "Analisis Site Selection untuk Lokasi Bisnis dengan GIS",
       "category": "GIS",
       "keywords": [
@@ -598,6 +587,17 @@
         "mitigasi bencana",
         "risk mapping",
         "kerawanan"
+      ]
+    },
+    {
+      "title": "QGIS Plugin: QuickOSM untuk Download Data OpenStreetMap",
+      "category": "GIS",
+      "keywords": [
+        "qgis",
+        "quickosm",
+        "openstreetmap",
+        "osm",
+        "plugin"
       ]
     }
   ]
