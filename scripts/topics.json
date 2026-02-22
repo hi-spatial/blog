@@ -198,16 +198,6 @@
       ]
     },
     {
-      "title": "Analisis Site Selection untuk Lokasi Bisnis dengan GIS",
-      "category": "GIS",
-      "keywords": [
-        "site selection",
-        "lokasi bisnis",
-        "spatial analysis",
-        "location intelligence"
-      ]
-    },
-    {
       "title": "Pengenalan Machine Learning untuk Data Geospasial",
       "category": "Python",
       "keywords": [
@@ -598,6 +588,16 @@
         "openstreetmap",
         "osm",
         "plugin"
+      ]
+    },
+    {
+      "title": "Analisis Site Selection untuk Lokasi Bisnis dengan GIS",
+      "category": "GIS",
+      "keywords": [
+        "site selection",
+        "lokasi bisnis",
+        "spatial analysis",
+        "location intelligence"
       ]
     }
   ]
