@@ -3791,17 +3791,6 @@
       ]
     },
     {
-      "title": "Analisis Volcanic Hazard Mapping",
-      "category": "GIS",
-      "keywords": [
-        "vulkan",
-        "gunung api",
-        "hazard",
-        "mitigation",
-        "indonesia"
-      ]
-    },
-    {
       "title": "QGIS Plugin: QGIS Intersect: Intersect Tools",
       "category": "Tutorial",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "geospatial",
         "ml",
         "prediction"
+      ]
+    },
+    {
+      "title": "Analisis Volcanic Hazard Mapping",
+      "category": "GIS",
+      "keywords": [
+        "vulkan",
+        "gunung api",
+        "hazard",
+        "mitigation",
+        "indonesia"
       ]
     }
   ]
