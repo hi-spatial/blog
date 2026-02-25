@@ -3582,17 +3582,6 @@
       ]
     },
     {
-      "title": "Membuat WebGIS dengan Meteor dan Leaflet",
-      "category": "WebGIS",
-      "keywords": [
-        "meteor",
-        "reactive",
-        "leaflet",
-        "fullstack",
-        "javascript"
-      ]
-    },
-    {
       "title": "Analisis Pipeline Routing dengan GIS",
       "category": "GIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "rotate",
         "direction",
         "navigation"
+      ]
+    },
+    {
+      "title": "Membuat WebGIS dengan Meteor dan Leaflet",
+      "category": "WebGIS",
+      "keywords": [
+        "meteor",
+        "reactive",
+        "leaflet",
+        "fullstack",
+        "javascript"
       ]
     }
   ]
