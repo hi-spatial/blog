@@ -381,17 +381,6 @@
       ]
     },
     {
-      "title": "Membuat Peta Animasi Perubahan Wilayah dengan QGIS",
-      "category": "Tutorial",
-      "keywords": [
-        "qgis",
-        "animasi",
-        "temporal",
-        "time manager",
-        "visualisasi"
-      ]
-    },
-    {
       "title": "Pengenalan WMS, WFS, dan WMTS Services",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "modeling",
         "coastal",
         "hazard"
+      ]
+    },
+    {
+      "title": "Membuat Peta Animasi Perubahan Wilayah dengan QGIS",
+      "category": "Tutorial",
+      "keywords": [
+        "qgis",
+        "animasi",
+        "temporal",
+        "time manager",
+        "visualisasi"
       ]
     }
   ]
