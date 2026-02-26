@@ -3604,17 +3604,6 @@
       ]
     },
     {
-      "title": "Leaflet Realtime: Data Real-time di Peta",
-      "category": "WebGIS",
-      "keywords": [
-        "leaflet",
-        "realtime",
-        "streaming",
-        "live",
-        "websocket"
-      ]
-    },
-    {
       "title": "Analisis Snow Cover Monitoring",
       "category": "Remote Sensing",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "leaflet",
         "fullstack",
         "javascript"
+      ]
+    },
+    {
+      "title": "Leaflet Realtime: Data Real-time di Peta",
+      "category": "WebGIS",
+      "keywords": [
+        "leaflet",
+        "realtime",
+        "streaming",
+        "live",
+        "websocket"
       ]
     }
   ]
