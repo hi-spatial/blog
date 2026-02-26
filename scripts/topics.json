@@ -3824,17 +3824,6 @@
       ]
     },
     {
-      "title": "Analisis Tsunami Inundation Modeling",
-      "category": "GIS",
-      "keywords": [
-        "tsunami",
-        "inundation",
-        "modeling",
-        "coastal",
-        "hazard"
-      ]
-    },
-    {
       "title": "QGIS Plugin: QGIS Union: Union Tools",
       "category": "Tutorial",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "streaming",
         "live",
         "websocket"
+      ]
+    },
+    {
+      "title": "Analisis Tsunami Inundation Modeling",
+      "category": "GIS",
+      "keywords": [
+        "tsunami",
+        "inundation",
+        "modeling",
+        "coastal",
+        "hazard"
       ]
     }
   ]
