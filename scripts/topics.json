@@ -3175,17 +3175,6 @@
       ]
     },
     {
-      "title": "Citra KOMPSAT untuk Korea",
-      "category": "Remote Sensing",
-      "keywords": [
-        "kompsat",
-        "korea",
-        "satellite",
-        "imagery",
-        "high resolution"
-      ]
-    },
-    {
       "title": "Membuat Peta dengan Mapbox Geocoding API",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "temporal",
         "time manager",
         "visualisasi"
+      ]
+    },
+    {
+      "title": "Citra KOMPSAT untuk Korea",
+      "category": "Remote Sensing",
+      "keywords": [
+        "kompsat",
+        "korea",
+        "satellite",
+        "imagery",
+        "high resolution"
       ]
     }
   ]
