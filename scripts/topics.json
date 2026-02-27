@@ -788,17 +788,6 @@
       ]
     },
     {
-      "title": "Geopandas Spatial Join: Analisis Data Berbasis Lokasi",
-      "category": "Python",
-      "keywords": [
-        "geopandas",
-        "spatial join",
-        "python",
-        "analisis",
-        "overlay"
-      ]
-    },
-    {
       "title": "Pemanfaatan NAIP Imagery untuk Pemetaan Detail",
       "category": "Remote Sensing",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "dem",
         "terrain",
         "plugin"
+      ]
+    },
+    {
+      "title": "Geopandas Spatial Join: Analisis Data Berbasis Lokasi",
+      "category": "Python",
+      "keywords": [
+        "geopandas",
+        "spatial join",
+        "python",
+        "analisis",
+        "overlay"
       ]
     }
   ]
