@@ -3538,17 +3538,6 @@
       ]
     },
     {
-      "title": "QGIS Plugin: QGIS Elevation: Elevasi Tools",
-      "category": "Tutorial",
-      "keywords": [
-        "qgis",
-        "elevation",
-        "dem",
-        "terrain",
-        "plugin"
-      ]
-    },
-    {
       "title": "Citra Ecostress untuk Plant Water Stress",
       "category": "Remote Sensing",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "satellite",
         "imagery",
         "high resolution"
+      ]
+    },
+    {
+      "title": "QGIS Plugin: QGIS Elevation: Elevasi Tools",
+      "category": "Tutorial",
+      "keywords": [
+        "qgis",
+        "elevation",
+        "dem",
+        "terrain",
+        "plugin"
       ]
     }
   ]
