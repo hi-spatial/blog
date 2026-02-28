@@ -2207,17 +2207,6 @@
       ]
     },
     {
-      "title": "Python Earthpy: Tutorial Earth Observation",
-      "category": "Python",
-      "keywords": [
-        "earthpy",
-        "python",
-        "earth observation",
-        "remote sensing",
-        "learning"
-      ]
-    },
-    {
       "title": "Citra FOTO UAV untuk Orthophoto",
       "category": "Remote Sensing",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "python",
         "analisis",
         "overlay"
+      ]
+    },
+    {
+      "title": "Python Earthpy: Tutorial Earth Observation",
+      "category": "Python",
+      "keywords": [
+        "earthpy",
+        "python",
+        "earth observation",
+        "remote sensing",
+        "learning"
       ]
     }
   ]
