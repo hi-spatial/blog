@@ -722,17 +722,6 @@
       ]
     },
     {
-      "title": "Analisis Visibility untuk Perencanaan Menara Telekomunikasi",
-      "category": "GIS",
-      "keywords": [
-        "visibility",
-        "telekomunikasi",
-        "tower",
-        "viewshed",
-        "coverage"
-      ]
-    },
-    {
       "title": "Pemetaan Partisipatif dengan OpenDataKit dan QGIS",
       "category": "Tutorial",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "javascript",
         "webgis",
         "tanpa framework"
+      ]
+    },
+    {
+      "title": "Analisis Visibility untuk Perencanaan Menara Telekomunikasi",
+      "category": "GIS",
+      "keywords": [
+        "visibility",
+        "telekomunikasi",
+        "tower",
+        "viewshed",
+        "coverage"
       ]
     }
   ]
