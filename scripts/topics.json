@@ -1624,17 +1624,6 @@
       ]
     },
     {
-      "title": "QGIS Plugin: DB Manager untuk Database Spasial",
-      "category": "Tutorial",
-      "keywords": [
-        "qgis",
-        "db manager",
-        "database",
-        "sql",
-        "postgis"
-      ]
-    },
-    {
       "title": "Analisis Klasifikasi Berbasis Objek dengan eCognition",
       "category": "Remote Sensing",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "chart",
         "grafik",
         "plugin"
+      ]
+    },
+    {
+      "title": "QGIS Plugin: DB Manager untuk Database Spasial",
+      "category": "Tutorial",
+      "keywords": [
+        "qgis",
+        "db manager",
+        "database",
+        "sql",
+        "postgis"
       ]
     }
   ]
