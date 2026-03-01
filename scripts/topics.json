@@ -3703,17 +3703,6 @@
       ]
     },
     {
-      "title": "Python Geopandas: Projections dan Reprojecting",
-      "category": "Python",
-      "keywords": [
-        "geopandas",
-        "projection",
-        "reproject",
-        "crs",
-        "transform"
-      ]
-    },
-    {
       "title": "Leaflet Here: HERE Maps Layer",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "database",
         "sql",
         "postgis"
+      ]
+    },
+    {
+      "title": "Python Geopandas: Projections dan Reprojecting",
+      "category": "Python",
+      "keywords": [
+        "geopandas",
+        "projection",
+        "reproject",
+        "crs",
+        "transform"
       ]
     }
   ]
