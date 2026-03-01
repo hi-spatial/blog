@@ -1228,17 +1228,6 @@
       ]
     },
     {
-      "title": "QGIS Data Plotly: Membuat Chart dari Data Spasial",
-      "category": "Tutorial",
-      "keywords": [
-        "qgis",
-        "data plotly",
-        "chart",
-        "grafik",
-        "plugin"
-      ]
-    },
-    {
       "title": "Analisis Central Place Theory dengan GIS",
       "category": "GIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "tower",
         "viewshed",
         "coverage"
+      ]
+    },
+    {
+      "title": "QGIS Data Plotly: Membuat Chart dari Data Spasial",
+      "category": "Tutorial",
+      "keywords": [
+        "qgis",
+        "data plotly",
+        "chart",
+        "grafik",
+        "plugin"
       ]
     }
   ]
