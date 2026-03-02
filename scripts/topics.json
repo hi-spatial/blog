@@ -2548,17 +2548,6 @@
       ]
     },
     {
-      "title": "Python Eo-learn: Machine Learning untuk Earth Observation",
-      "category": "Python",
-      "keywords": [
-        "eo learn",
-        "machine learning",
-        "earth observation",
-        "sentinel",
-        "python"
-      ]
-    },
-    {
       "title": "QGIS Plugin: QGIS Cloud untuk Publish Peta",
       "category": "Tutorial",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "reproject",
         "crs",
         "transform"
+      ]
+    },
+    {
+      "title": "Python Eo-learn: Machine Learning untuk Earth Observation",
+      "category": "Python",
+      "keywords": [
+        "eo learn",
+        "machine learning",
+        "earth observation",
+        "sentinel",
+        "python"
       ]
     }
   ]
