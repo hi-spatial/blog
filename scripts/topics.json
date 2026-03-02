@@ -2526,17 +2526,6 @@
       ]
     },
     {
-      "title": "Leaflet Minimap: Overview Peta Mini",
-      "category": "WebGIS",
-      "keywords": [
-        "leaflet",
-        "minimap",
-        "overview",
-        "context",
-        "plugin"
-      ]
-    },
-    {
       "title": "Analisis Hydrological Response Unit",
       "category": "GIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "what if",
         "simulation",
         "future"
+      ]
+    },
+    {
+      "title": "Leaflet Minimap: Overview Peta Mini",
+      "category": "WebGIS",
+      "keywords": [
+        "leaflet",
+        "minimap",
+        "overview",
+        "context",
+        "plugin"
       ]
     }
   ]
