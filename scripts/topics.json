@@ -2735,17 +2735,6 @@
       ]
     },
     {
-      "title": "Analisis Scenario Planning dengan GIS",
-      "category": "GIS",
-      "keywords": [
-        "scenario",
-        "planning",
-        "what if",
-        "simulation",
-        "future"
-      ]
-    },
-    {
       "title": "Python Kepler.gl: Visualisasi Big Data Spasial",
       "category": "Python",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "earth observation",
         "sentinel",
         "python"
+      ]
+    },
+    {
+      "title": "Analisis Scenario Planning dengan GIS",
+      "category": "GIS",
+      "keywords": [
+        "scenario",
+        "planning",
+        "what if",
+        "simulation",
+        "future"
       ]
     }
   ]
