@@ -4099,17 +4099,6 @@
       ]
     },
     {
-      "title": "Analisis Perencanaan Pelabuhan dengan GIS",
-      "category": "GIS",
-      "keywords": [
-        "pelabuhan",
-        "port",
-        "planning",
-        "maritime",
-        "logistics"
-      ]
-    },
-    {
       "title": "Python Geopandas: Geometric Manipulations",
       "category": "Python",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "overview",
         "context",
         "plugin"
+      ]
+    },
+    {
+      "title": "Analisis Perencanaan Pelabuhan dengan GIS",
+      "category": "GIS",
+      "keywords": [
+        "pelabuhan",
+        "port",
+        "planning",
+        "maritime",
+        "logistics"
       ]
     }
   ]
