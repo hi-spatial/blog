@@ -634,17 +634,6 @@
       ]
     },
     {
-      "title": "Analisis Multicriteria Decision Analysis (MCDA) dalam GIS",
-      "category": "GIS",
-      "keywords": [
-        "mcda",
-        "ahp",
-        "spatial decision",
-        "weighted overlay",
-        "perencanaan"
-      ]
-    },
-    {
       "title": "Peta Sebaran Fasilitas Kesehatan dengan OpenStreetMap",
       "category": "GIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "aggregate",
         "sql",
         "database"
+      ]
+    },
+    {
+      "title": "Analisis Multicriteria Decision Analysis (MCDA) dalam GIS",
+      "category": "GIS",
+      "keywords": [
+        "mcda",
+        "ahp",
+        "spatial decision",
+        "weighted overlay",
+        "perencanaan"
       ]
     }
   ]
