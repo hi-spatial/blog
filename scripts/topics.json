@@ -3846,17 +3846,6 @@
       ]
     },
     {
-      "title": "Python Geopandas: Reading Data",
-      "category": "Python",
-      "keywords": [
-        "geopandas",
-        "read",
-        "import",
-        "file formats",
-        "data sources"
-      ]
-    },
-    {
       "title": "Leaflet Esri: ESRI Leaflet Plugin",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "spatial decision",
         "weighted overlay",
         "perencanaan"
+      ]
+    },
+    {
+      "title": "Python Geopandas: Reading Data",
+      "category": "Python",
+      "keywords": [
+        "geopandas",
+        "read",
+        "import",
+        "file formats",
+        "data sources"
       ]
     }
   ]
