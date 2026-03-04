@@ -349,17 +349,6 @@
       ]
     },
     {
-      "title": "Spatial Join dan Aggregate Analysis dengan PostGIS",
-      "category": "Data",
-      "keywords": [
-        "postgis",
-        "spatial join",
-        "aggregate",
-        "sql",
-        "database"
-      ]
-    },
-    {
       "title": "Visualisasi Peta Statistik dengan Carto",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "carbon",
         "estimation",
         "lidar"
+      ]
+    },
+    {
+      "title": "Spatial Join dan Aggregate Analysis dengan PostGIS",
+      "category": "Data",
+      "keywords": [
+        "postgis",
+        "spatial join",
+        "aggregate",
+        "sql",
+        "database"
       ]
     }
   ]
