@@ -766,17 +766,6 @@
       ]
     },
     {
-      "title": "Membuat Peta Census dengan Boundary Data",
-      "category": "GIS",
-      "keywords": [
-        "census",
-        "penduduk",
-        "boundary",
-        "demografi",
-        "statistik"
-      ]
-    },
-    {
       "title": "QGIS Plugin: QGIS2Web untuk Ekspor Peta ke Web",
       "category": "Tutorial",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "optimal route",
         "terrain analysis",
         "pathfinding"
+      ]
+    },
+    {
+      "title": "Membuat Peta Census dengan Boundary Data",
+      "category": "GIS",
+      "keywords": [
+        "census",
+        "penduduk",
+        "boundary",
+        "demografi",
+        "statistik"
       ]
     }
   ]
