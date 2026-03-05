@@ -1184,17 +1184,6 @@
       ]
     },
     {
-      "title": "Analisis Cost Surface dan Least Cost Path",
-      "category": "GIS",
-      "keywords": [
-        "cost surface",
-        "least cost path",
-        "optimal route",
-        "terrain analysis",
-        "pathfinding"
-      ]
-    },
-    {
       "title": "Pemanfaatan Data Hipso dan Bathymetri untuk Peta Laut",
       "category": "Remote Sensing",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "import",
         "file formats",
         "data sources"
+      ]
+    },
+    {
+      "title": "Analisis Cost Surface dan Least Cost Path",
+      "category": "GIS",
+      "keywords": [
+        "cost surface",
+        "least cost path",
+        "optimal route",
+        "terrain analysis",
+        "pathfinding"
       ]
     }
   ]
