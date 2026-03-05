@@ -3692,17 +3692,6 @@
       ]
     },
     {
-      "title": "Analisis Landslide Susceptibility Mapping",
-      "category": "GIS",
-      "keywords": [
-        "longsor",
-        "landslide",
-        "susceptibility",
-        "hazard",
-        "mapping"
-      ]
-    },
-    {
       "title": "QGIS Plugin: QGIS Difference: Difference Tools",
       "category": "Tutorial",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "boundary",
         "demografi",
         "statistik"
+      ]
+    },
+    {
+      "title": "Analisis Landslide Susceptibility Mapping",
+      "category": "GIS",
+      "keywords": [
+        "longsor",
+        "landslide",
+        "susceptibility",
+        "hazard",
+        "mapping"
       ]
     }
   ]
