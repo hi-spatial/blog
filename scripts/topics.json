@@ -2119,17 +2119,6 @@
       ]
     },
     {
-      "title": "Analisis Gravity Anomaly untuk Geologi",
-      "category": "GIS",
-      "keywords": [
-        "gravity",
-        "anomaly",
-        "geologi",
-        "geofisika",
-        "subsurface"
-      ]
-    },
-    {
       "title": "QGIS Plugin: QGIS Layer Definition",
       "category": "Tutorial",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "rest",
         "geojson",
         "standard"
+      ]
+    },
+    {
+      "title": "Analisis Gravity Anomaly untuk Geologi",
+      "category": "GIS",
+      "keywords": [
+        "gravity",
+        "anomaly",
+        "geologi",
+        "geofisika",
+        "subsurface"
       ]
     }
   ]
