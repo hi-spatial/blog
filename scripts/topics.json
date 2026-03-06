@@ -3813,17 +3813,6 @@
       ]
     },
     {
-      "title": "QGIS Plugin: QGIS Clip: Clip Tools",
-      "category": "Tutorial",
-      "keywords": [
-        "qgis",
-        "clip",
-        "crop",
-        "extract",
-        "plugin"
-      ]
-    },
-    {
       "title": "Citaria KazEOSAT untuk Kazakhstan",
       "category": "Remote Sensing",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "geologi",
         "geofisika",
         "subsurface"
+      ]
+    },
+    {
+      "title": "QGIS Plugin: QGIS Clip: Clip Tools",
+      "category": "Tutorial",
+      "keywords": [
+        "qgis",
+        "clip",
+        "crop",
+        "extract",
+        "plugin"
       ]
     }
   ]
