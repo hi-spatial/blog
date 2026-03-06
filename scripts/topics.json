@@ -513,17 +513,6 @@
       ]
     },
     {
-      "title": "Pengenalan OGC API Features untuk Modern Web Services",
-      "category": "WebGIS",
-      "keywords": [
-        "ogc api",
-        "features",
-        "rest",
-        "geojson",
-        "standard"
-      ]
-    },
-    {
       "title": "Analisis Trafic Flow dengan Network Analyst",
       "category": "GIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "susceptibility",
         "hazard",
         "mapping"
+      ]
+    },
+    {
+      "title": "Pengenalan OGC API Features untuk Modern Web Services",
+      "category": "WebGIS",
+      "keywords": [
+        "ogc api",
+        "features",
+        "rest",
+        "geojson",
+        "standard"
       ]
     }
   ]
