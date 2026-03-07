@@ -3725,17 +3725,6 @@
       ]
     },
     {
-      "title": "Leaflet CartoDB: CartoDB Basemaps",
-      "category": "WebGIS",
-      "keywords": [
-        "leaflet",
-        "cartodb",
-        "basemap",
-        "tiles",
-        "provider"
-      ]
-    },
-    {
       "title": "Analisis Coastal Vulnerability Index",
       "category": "Remote Sensing",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "crop",
         "extract",
         "plugin"
+      ]
+    },
+    {
+      "title": "Leaflet CartoDB: CartoDB Basemaps",
+      "category": "WebGIS",
+      "keywords": [
+        "leaflet",
+        "cartodb",
+        "basemap",
+        "tiles",
+        "provider"
       ]
     }
   ]
