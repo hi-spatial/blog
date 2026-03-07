@@ -491,17 +491,6 @@
       ]
     },
     {
-      "title": "Analisis Pencahayaan Matahari dengan Solar Radiation Tools",
-      "category": "GIS",
-      "keywords": [
-        "solar radiation",
-        "insolation",
-        "dem",
-        "terrain",
-        "energi"
-      ]
-    },
-    {
       "title": "Membuat Dashboard GIS dengan Streamlit dan Folium",
       "category": "Python",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "animasi",
         "perubahan",
         "earth engine"
+      ]
+    },
+    {
+      "title": "Analisis Pencahayaan Matahari dengan Solar Radiation Tools",
+      "category": "GIS",
+      "keywords": [
+        "solar radiation",
+        "insolation",
+        "dem",
+        "terrain",
+        "energi"
       ]
     }
   ]
