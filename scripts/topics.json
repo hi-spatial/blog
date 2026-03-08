@@ -2097,17 +2097,6 @@
       ]
     },
     {
-      "title": "QGIS Plugin: QGIS Layer Definition",
-      "category": "Tutorial",
-      "keywords": [
-        "qgis",
-        "layer definition",
-        "qlr",
-        "style sharing",
-        "plugin"
-      ]
-    },
-    {
       "title": "Python Rasterstats: Statistik Zonal untuk Raster",
       "category": "Python",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "network",
         "infrastructure",
         "planning"
+      ]
+    },
+    {
+      "title": "QGIS Plugin: QGIS Layer Definition",
+      "category": "Tutorial",
+      "keywords": [
+        "qgis",
+        "layer definition",
+        "qlr",
+        "style sharing",
+        "plugin"
       ]
     }
   ]
