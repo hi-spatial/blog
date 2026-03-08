@@ -1481,17 +1481,6 @@
       ]
     },
     {
-      "title": "Analisis Kuantitatif Citra dengan Scikit-Image",
-      "category": "Python",
-      "keywords": [
-        "scikit image",
-        "python",
-        "image processing",
-        "citra",
-        "analisis"
-      ]
-    },
-    {
       "title": "Citra TerraSAR-X untuk Analisis Radar",
       "category": "Remote Sensing",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "qlr",
         "style sharing",
         "plugin"
+      ]
+    },
+    {
+      "title": "Analisis Kuantitatif Citra dengan Scikit-Image",
+      "category": "Python",
+      "keywords": [
+        "scikit image",
+        "python",
+        "image processing",
+        "citra",
+        "analisis"
       ]
     }
   ]
