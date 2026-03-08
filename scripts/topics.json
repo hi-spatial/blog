@@ -3681,17 +3681,6 @@
       ]
     },
     {
-      "title": "Analisis Perencanaan Jaringan Gas",
-      "category": "GIS",
-      "keywords": [
-        "gas",
-        "pipa gas",
-        "network",
-        "infrastructure",
-        "planning"
-      ]
-    },
-    {
       "title": "Python Geopandas: Writing dan Saving Data",
       "category": "Python",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "dem",
         "terrain",
         "energi"
+      ]
+    },
+    {
+      "title": "Analisis Perencanaan Jaringan Gas",
+      "category": "GIS",
+      "keywords": [
+        "gas",
+        "pipa gas",
+        "network",
+        "infrastructure",
+        "planning"
       ]
     }
   ]
