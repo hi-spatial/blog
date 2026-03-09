@@ -4110,17 +4110,6 @@
       ]
     },
     {
-      "title": "Membuat Peta dengan Mapbox Boundaries V2",
-      "category": "WebGIS",
-      "keywords": [
-        "mapbox",
-        "boundaries",
-        "admin",
-        "v2",
-        "atlas"
-      ]
-    },
-    {
       "title": "Analisis Perencanaan Jembatan dengan GIS",
       "category": "GIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "high resolution",
         "satellite",
         "central asia"
+      ]
+    },
+    {
+      "title": "Membuat Peta dengan Mapbox Boundaries V2",
+      "category": "WebGIS",
+      "keywords": [
+        "mapbox",
+        "boundaries",
+        "admin",
+        "v2",
+        "atlas"
       ]
     }
   ]
