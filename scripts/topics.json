@@ -3747,17 +3747,6 @@
       ]
     },
     {
-      "title": "Citaria KazEOSAT untuk Kazakhstan",
-      "category": "Remote Sensing",
-      "keywords": [
-        "kazeosat",
-        "kazakhstan",
-        "high resolution",
-        "satellite",
-        "central asia"
-      ]
-    },
-    {
       "title": "Membuat Peta dengan Mapbox Geocoder Plugin",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "image processing",
         "citra",
         "analisis"
+      ]
+    },
+    {
+      "title": "Citaria KazEOSAT untuk Kazakhstan",
+      "category": "Remote Sensing",
+      "keywords": [
+        "kazeosat",
+        "kazakhstan",
+        "high resolution",
+        "satellite",
+        "central asia"
       ]
     }
   ]
