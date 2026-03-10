@@ -3846,17 +3846,6 @@
       ]
     },
     {
-      "title": "QGIS Plugin: QGIS Centroid: Centroid Tools",
-      "category": "Tutorial",
-      "keywords": [
-        "qgis",
-        "centroid",
-        "point",
-        "polygon",
-        "plugin"
-      ]
-    },
-    {
       "title": "Citra UrtheCast untuk EO",
       "category": "Remote Sensing",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "leaflet",
         "webgis",
         "google"
+      ]
+    },
+    {
+      "title": "QGIS Plugin: QGIS Centroid: Centroid Tools",
+      "category": "Tutorial",
+      "keywords": [
+        "qgis",
+        "centroid",
+        "point",
+        "polygon",
+        "plugin"
       ]
     }
   ]
