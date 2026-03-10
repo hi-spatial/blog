@@ -381,17 +381,6 @@
       ]
     },
     {
-      "title": "GeoServer: Publikasi Data Geospasial sebagai Web Service",
-      "category": "WebGIS",
-      "keywords": [
-        "geoserver",
-        "wms",
-        "wfs",
-        "map server",
-        "ogc"
-      ]
-    },
-    {
       "title": "Membuat Peta Choropleth dengan D3.js",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "point",
         "polygon",
         "plugin"
+      ]
+    },
+    {
+      "title": "GeoServer: Publikasi Data Geospasial sebagai Web Service",
+      "category": "WebGIS",
+      "keywords": [
+        "geoserver",
+        "wms",
+        "wfs",
+        "map server",
+        "ogc"
       ]
     }
   ]
