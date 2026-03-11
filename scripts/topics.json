@@ -328,17 +328,6 @@
       ]
     },
     {
-      "title": "Visualisasi Peta Statistik dengan Carto",
-      "category": "WebGIS",
-      "keywords": [
-        "carto",
-        "webgis",
-        "visualisasi",
-        "maps",
-        "platform"
-      ]
-    },
-    {
       "title": "Analisis Kesesuaian Lahan untuk Pertanian",
       "category": "GIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "transit",
         "gtfs",
         "urban"
+      ]
+    },
+    {
+      "title": "Visualisasi Peta Statistik dengan Carto",
+      "category": "WebGIS",
+      "keywords": [
+        "carto",
+        "webgis",
+        "visualisasi",
+        "maps",
+        "platform"
       ]
     }
   ]
