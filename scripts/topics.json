@@ -3154,17 +3154,6 @@
       ]
     },
     {
-      "title": "Analisis Public Transport Accessibility",
-      "category": "GIS",
-      "keywords": [
-        "accessibility",
-        "public transport",
-        "transit",
-        "gtfs",
-        "urban"
-      ]
-    },
-    {
       "title": "Python Geopandas: Coordinate System Handling",
       "category": "Python",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "delaunay",
         "spatial analysis",
         "tessellation"
+      ]
+    },
+    {
+      "title": "Analisis Public Transport Accessibility",
+      "category": "GIS",
+      "keywords": [
+        "accessibility",
+        "public transport",
+        "transit",
+        "gtfs",
+        "urban"
       ]
     }
   ]
