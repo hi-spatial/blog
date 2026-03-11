@@ -220,16 +220,6 @@
       ]
     },
     {
-      "title": "Analisis Voronoi dan Delaunay Triangulation dalam GIS",
-      "category": "GIS",
-      "keywords": [
-        "voronoi",
-        "delaunay",
-        "spatial analysis",
-        "tessellation"
-      ]
-    },
-    {
       "title": "Pemanfaatan LiDAR untuk Pemetaan 3D",
       "category": "Remote Sensing",
       "keywords": [
@@ -4983,6 +4973,16 @@
         "wfs",
         "map server",
         "ogc"
+      ]
+    },
+    {
+      "title": "Analisis Voronoi dan Delaunay Triangulation dalam GIS",
+      "category": "GIS",
+      "keywords": [
+        "voronoi",
+        "delaunay",
+        "spatial analysis",
+        "tessellation"
       ]
     }
   ]
