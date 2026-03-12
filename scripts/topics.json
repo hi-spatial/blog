@@ -2868,17 +2868,6 @@
       ]
     },
     {
-      "title": "Analisis Soil Mapping dengan Remote Sensing",
-      "category": "Remote Sensing",
-      "keywords": [
-        "soil",
-        "tanah",
-        "mapping",
-        "spectral",
-        "classification"
-      ]
-    },
-    {
       "title": "QGIS Plugin: QGIS ShapeTools: Tools Bentuk",
       "category": "Tutorial",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "leaflet",
         "lightweight",
         "javascript"
+      ]
+    },
+    {
+      "title": "Analisis Soil Mapping dengan Remote Sensing",
+      "category": "Remote Sensing",
+      "keywords": [
+        "soil",
+        "tanah",
+        "mapping",
+        "spectral",
+        "classification"
       ]
     }
   ]
