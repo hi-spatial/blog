@@ -382,17 +382,6 @@
       ]
     },
     {
-      "title": "Citra SAR Sentinel-1 untuk Monitoring Deformasi Tanah",
-      "category": "Remote Sensing",
-      "keywords": [
-        "sentinel-1",
-        "sar",
-        "insar",
-        "deformasi",
-        "subsiden"
-      ]
-    },
-    {
       "title": "Python untuk Automatisasi Download Citra Satelit",
       "category": "Python",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "visualisasi",
         "maps",
         "platform"
+      ]
+    },
+    {
+      "title": "Citra SAR Sentinel-1 untuk Monitoring Deformasi Tanah",
+      "category": "Remote Sensing",
+      "keywords": [
+        "sentinel-1",
+        "sar",
+        "insar",
+        "deformasi",
+        "subsiden"
       ]
     }
   ]
