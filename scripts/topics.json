@@ -2967,17 +2967,6 @@
       ]
     },
     {
-      "title": "Membuat WebGIS dengan AlpineJS dan Leaflet",
-      "category": "WebGIS",
-      "keywords": [
-        "alpine",
-        "alpinejs",
-        "leaflet",
-        "lightweight",
-        "javascript"
-      ]
-    },
-    {
       "title": "Analisis Wildlife Habitat Connectivity",
       "category": "GIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "insar",
         "deformasi",
         "subsiden"
+      ]
+    },
+    {
+      "title": "Membuat WebGIS dengan AlpineJS dan Leaflet",
+      "category": "WebGIS",
+      "keywords": [
+        "alpine",
+        "alpinejs",
+        "leaflet",
+        "lightweight",
+        "javascript"
       ]
     }
   ]
