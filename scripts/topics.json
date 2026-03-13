@@ -1449,17 +1449,6 @@
       ]
     },
     {
-      "title": "Analisis Gravity Model untuk Perencanaan Regional",
-      "category": "GIS",
-      "keywords": [
-        "gravity model",
-        "perencanaan regional",
-        "spatial interaction",
-        "accessibility",
-        "flow"
-      ]
-    },
-    {
       "title": "Python Contextily: Menambahkan Basemaps ke Plot",
       "category": "Python",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "mapping",
         "spectral",
         "classification"
+      ]
+    },
+    {
+      "title": "Analisis Gravity Model untuk Perencanaan Regional",
+      "category": "GIS",
+      "keywords": [
+        "gravity model",
+        "perencanaan regional",
+        "spatial interaction",
+        "accessibility",
+        "flow"
       ]
     }
   ]
