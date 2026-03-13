@@ -2197,17 +2197,6 @@
       ]
     },
     {
-      "title": "Python Satpy: Membaca Data Satelit Meteorologi",
-      "category": "Python",
-      "keywords": [
-        "satpy",
-        "meteorology",
-        "satellite",
-        "python",
-        "himawari"
-      ]
-    },
-    {
       "title": "Leaflet Path Transform: Transformasi Geometri",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "features",
         "editing",
         "plugin"
+      ]
+    },
+    {
+      "title": "Python Satpy: Membaca Data Satelit Meteorologi",
+      "category": "Python",
+      "keywords": [
+        "satpy",
+        "meteorology",
+        "satellite",
+        "python",
+        "himawari"
       ]
     }
   ]
