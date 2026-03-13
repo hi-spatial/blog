@@ -2637,17 +2637,6 @@
       ]
     },
     {
-      "title": "QGIS Plugin: QGIS Merge: Merge Features",
-      "category": "Tutorial",
-      "keywords": [
-        "qgis",
-        "merge",
-        "features",
-        "editing",
-        "plugin"
-      ]
-    },
-    {
       "title": "Citra CBERS untuk China Brazil",
       "category": "Remote Sensing",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "spatial interaction",
         "accessibility",
         "flow"
+      ]
+    },
+    {
+      "title": "QGIS Plugin: QGIS Merge: Merge Features",
+      "category": "Tutorial",
+      "keywords": [
+        "qgis",
+        "merge",
+        "features",
+        "editing",
+        "plugin"
       ]
     }
   ]
