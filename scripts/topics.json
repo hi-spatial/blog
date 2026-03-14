@@ -393,17 +393,6 @@
       ]
     },
     {
-      "title": "Analisis Hotspot untuk Deteksi Klaster Peristiwa",
-      "category": "GIS",
-      "keywords": [
-        "hotspot",
-        "klaster",
-        "spatial analysis",
-        "getis ord gi",
-        "statistik"
-      ]
-    },
-    {
       "title": "Pemanfaatan Geopackage untuk Mobile GIS",
       "category": "Data",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "javascript",
         "visualisasi",
         "peta tematik"
+      ]
+    },
+    {
+      "title": "Analisis Hotspot untuk Deteksi Klaster Peristiwa",
+      "category": "GIS",
+      "keywords": [
+        "hotspot",
+        "klaster",
+        "spatial analysis",
+        "getis ord gi",
+        "statistik"
       ]
     }
   ]
