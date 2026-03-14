@@ -723,17 +723,6 @@
       ]
     },
     {
-      "title": "Membangun GIS Online dengan GeoDjango",
-      "category": "Python",
-      "keywords": [
-        "geodjango",
-        "django",
-        "python",
-        "web framework",
-        "backend"
-      ]
-    },
-    {
       "title": "QGIS Relation: Mengelola Data Terhubung",
       "category": "Tutorial",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "spatial analysis",
         "getis ord gi",
         "statistik"
+      ]
+    },
+    {
+      "title": "Membangun GIS Online dengan GeoDjango",
+      "category": "Python",
+      "keywords": [
+        "geodjango",
+        "django",
+        "python",
+        "web framework",
+        "backend"
       ]
     }
   ]
