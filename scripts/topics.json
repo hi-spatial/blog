@@ -2758,17 +2758,6 @@
       ]
     },
     {
-      "title": "Membuat WebGIS dengan RiotJS dan Leaflet",
-      "category": "WebGIS",
-      "keywords": [
-        "riot",
-        "riotjs",
-        "leaflet",
-        "web components",
-        "lightweight"
-      ]
-    },
-    {
       "title": "Analisis Tourism Destination Suitability",
       "category": "GIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "qml",
         "symbols",
         "management"
+      ]
+    },
+    {
+      "title": "Membuat WebGIS dengan RiotJS dan Leaflet",
+      "category": "WebGIS",
+      "keywords": [
+        "riot",
+        "riotjs",
+        "leaflet",
+        "web components",
+        "lightweight"
       ]
     }
   ]
