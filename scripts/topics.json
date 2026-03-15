@@ -987,17 +987,6 @@
       ]
     },
     {
-      "title": "Analisis Poligon Thiessen untuk Penentuan Wilayah Layanan",
-      "category": "GIS",
-      "keywords": [
-        "thiessen",
-        "voronoi",
-        "service area",
-        "polygon",
-        "allocation"
-      ]
-    },
-    {
       "title": "Citra Pleiades untuk High Resolution Mapping",
       "category": "Remote Sensing",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "leaflet",
         "web components",
         "lightweight"
+      ]
+    },
+    {
+      "title": "Analisis Poligon Thiessen untuk Penentuan Wilayah Layanan",
+      "category": "GIS",
+      "keywords": [
+        "thiessen",
+        "voronoi",
+        "service area",
+        "polygon",
+        "allocation"
       ]
     }
   ]
