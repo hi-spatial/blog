@@ -2868,17 +2868,6 @@
       ]
     },
     {
-      "title": "QGIS Plugin: QGIS Style Manager: Manajemen Style",
-      "category": "Tutorial",
-      "keywords": [
-        "qgis",
-        "style manager",
-        "qml",
-        "symbols",
-        "management"
-      ]
-    },
-    {
       "title": "Citra DubaiSat untuk UAE",
       "category": "Remote Sensing",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "python",
         "web framework",
         "backend"
+      ]
+    },
+    {
+      "title": "QGIS Plugin: QGIS Style Manager: Manajemen Style",
+      "category": "Tutorial",
+      "keywords": [
+        "qgis",
+        "style manager",
+        "qml",
+        "symbols",
+        "management"
       ]
     }
   ]
