@@ -3737,17 +3737,6 @@
       ]
     },
     {
-      "title": "Citra BlackSky untuk High Frequency",
-      "category": "Remote Sensing",
-      "keywords": [
-        "blacksky",
-        "high frequency",
-        "revisit",
-        "monitoring",
-        "realtime"
-      ]
-    },
-    {
       "title": "Membuat Peta dengan Mapbox SDK untuk Android",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "radio frequency",
         "spectrum",
         "monitoring"
+      ]
+    },
+    {
+      "title": "Citra BlackSky untuk High Frequency",
+      "category": "Remote Sensing",
+      "keywords": [
+        "blacksky",
+        "high frequency",
+        "revisit",
+        "monitoring",
+        "realtime"
       ]
     }
   ]
