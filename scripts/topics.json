@@ -2329,17 +2329,6 @@
       ]
     },
     {
-      "title": "Analisis Perencanaan Infrastruktur Air Bersih",
-      "category": "GIS",
-      "keywords": [
-        "infrastruktur",
-        "air bersih",
-        "pdam",
-        "network analysis",
-        "perencanaan"
-      ]
-    },
-    {
       "title": "Python GeoViews: High-Level Visualization",
       "category": "Python",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "revisit",
         "monitoring",
         "realtime"
+      ]
+    },
+    {
+      "title": "Analisis Perencanaan Infrastruktur Air Bersih",
+      "category": "GIS",
+      "keywords": [
+        "infrastruktur",
+        "air bersih",
+        "pdam",
+        "network analysis",
+        "perencanaan"
       ]
     }
   ]
