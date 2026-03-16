@@ -3814,17 +3814,6 @@
       ]
     },
     {
-      "title": "Citra HawkEye 360 untuk RF",
-      "category": "Remote Sensing",
-      "keywords": [
-        "hawkeye",
-        "rf",
-        "radio frequency",
-        "spectrum",
-        "monitoring"
-      ]
-    },
-    {
       "title": "Membuat WebGIS MithrilJS dan Leaflet",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "service area",
         "polygon",
         "allocation"
+      ]
+    },
+    {
+      "title": "Citra HawkEye 360 untuk RF",
+      "category": "Remote Sensing",
+      "keywords": [
+        "hawkeye",
+        "rf",
+        "radio frequency",
+        "spectrum",
+        "monitoring"
       ]
     }
   ]
