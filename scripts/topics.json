@@ -1361,17 +1361,6 @@
       ]
     },
     {
-      "title": "QGIS Plugin: QuickMapServices untuk Basemaps",
-      "category": "Tutorial",
-      "keywords": [
-        "qgis",
-        "quickmapservices",
-        "basemap",
-        "plugin",
-        "xyz tiles"
-      ]
-    },
-    {
       "title": "Citra TerraSAR-X untuk Analisis Radar",
       "category": "Remote Sensing",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "mobile",
         "collect data",
         "qgis"
+      ]
+    },
+    {
+      "title": "QGIS Plugin: QuickMapServices untuk Basemaps",
+      "category": "Tutorial",
+      "keywords": [
+        "qgis",
+        "quickmapservices",
+        "basemap",
+        "plugin",
+        "xyz tiles"
       ]
     }
   ]
