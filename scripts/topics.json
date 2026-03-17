@@ -602,17 +602,6 @@
       ]
     },
     {
-      "title": "Pemetaan Partisipatif dengan OpenDataKit dan QGIS",
-      "category": "Tutorial",
-      "keywords": [
-        "odk",
-        "participatory mapping",
-        "mobile",
-        "collect data",
-        "qgis"
-      ]
-    },
-    {
       "title": "Citra Termal untuk Analisis Suhu Permukaan",
       "category": "Remote Sensing",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "pdam",
         "network analysis",
         "perencanaan"
+      ]
+    },
+    {
+      "title": "Pemetaan Partisipatif dengan OpenDataKit dan QGIS",
+      "category": "Tutorial",
+      "keywords": [
+        "odk",
+        "participatory mapping",
+        "mobile",
+        "collect data",
+        "qgis"
       ]
     }
   ]
