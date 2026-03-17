@@ -910,17 +910,6 @@
       ]
     },
     {
-      "title": "Mengenal PGSQL: Shp2pgsql dan Pgsql2shp",
-      "category": "Data",
-      "keywords": [
-        "pgsql",
-        "shp2pgsql",
-        "import",
-        "export",
-        "postgis"
-      ]
-    },
-    {
       "title": "Visualisasi Peta Stamen dan CartoDB Basemaps",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "basemap",
         "plugin",
         "xyz tiles"
+      ]
+    },
+    {
+      "title": "Mengenal PGSQL: Shp2pgsql dan Pgsql2shp",
+      "category": "Data",
+      "keywords": [
+        "pgsql",
+        "shp2pgsql",
+        "import",
+        "export",
+        "postgis"
       ]
     }
   ]
