@@ -3726,17 +3726,6 @@
       ]
     },
     {
-      "title": "QGIS Plugin: QGIS Voronoi Polygons",
-      "category": "Tutorial",
-      "keywords": [
-        "qgis",
-        "voronoi",
-        "thiessen",
-        "polygon",
-        "plugin"
-      ]
-    },
-    {
       "title": "Membuat WebGIS MithrilJS dan Leaflet",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "finland",
         "monitoring",
         "small satellite"
+      ]
+    },
+    {
+      "title": "QGIS Plugin: QGIS Voronoi Polygons",
+      "category": "Tutorial",
+      "keywords": [
+        "qgis",
+        "voronoi",
+        "thiessen",
+        "polygon",
+        "plugin"
       ]
     }
   ]
