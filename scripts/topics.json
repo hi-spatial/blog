@@ -3319,17 +3319,6 @@
       ]
     },
     {
-      "title": "Citra Iceye SAR untuk Monitoring",
-      "category": "Remote Sensing",
-      "keywords": [
-        "iceye",
-        "sar",
-        "finland",
-        "monitoring",
-        "small satellite"
-      ]
-    },
-    {
       "title": "Membuat WebGIS knockoutJS dan Leaflet",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "leaflet",
         "framework",
         "opinionated"
+      ]
+    },
+    {
+      "title": "Citra Iceye SAR untuk Monitoring",
+      "category": "Remote Sensing",
+      "keywords": [
+        "iceye",
+        "sar",
+        "finland",
+        "monitoring",
+        "small satellite"
       ]
     }
   ]
