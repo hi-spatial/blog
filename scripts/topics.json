@@ -3220,17 +3220,6 @@
       ]
     },
     {
-      "title": "Membuat WebGIS dengan EmberJS dan Leaflet",
-      "category": "WebGIS",
-      "keywords": [
-        "ember",
-        "emberjs",
-        "leaflet",
-        "framework",
-        "opinionated"
-      ]
-    },
-    {
       "title": "Analisis Site Selection untuk Warehouse",
       "category": "GIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "import",
         "export",
         "postgis"
+      ]
+    },
+    {
+      "title": "Membuat WebGIS dengan EmberJS dan Leaflet",
+      "category": "WebGIS",
+      "keywords": [
+        "ember",
+        "emberjs",
+        "leaflet",
+        "framework",
+        "opinionated"
       ]
     }
   ]
