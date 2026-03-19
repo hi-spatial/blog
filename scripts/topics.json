@@ -2912,17 +2912,6 @@
       ]
     },
     {
-      "title": "Analisis Groundwater Potential Mapping",
-      "category": "GIS",
-      "keywords": [
-        "groundwater",
-        "air tanah",
-        "aquifer",
-        "potential",
-        "mapping"
-      ]
-    },
-    {
       "title": "QGIS Plugin: QGIS SVG Export: Export SVG",
       "category": "Tutorial",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "jalan",
         "dem",
         "gradient"
+      ]
+    },
+    {
+      "title": "Analisis Groundwater Potential Mapping",
+      "category": "GIS",
+      "keywords": [
+        "groundwater",
+        "air tanah",
+        "aquifer",
+        "potential",
+        "mapping"
       ]
     }
   ]
