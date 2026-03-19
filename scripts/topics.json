@@ -668,17 +668,6 @@
       ]
     },
     {
-      "title": "Analisis Profil Jalan dengan Elevation Data",
-      "category": "GIS",
-      "keywords": [
-        "profile",
-        "elevation",
-        "jalan",
-        "dem",
-        "gradient"
-      ]
-    },
-    {
       "title": "Peta Interaktif dengan Observable Plot dan D3",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "thiessen",
         "polygon",
         "plugin"
+      ]
+    },
+    {
+      "title": "Analisis Profil Jalan dengan Elevation Data",
+      "category": "GIS",
+      "keywords": [
+        "profile",
+        "elevation",
+        "jalan",
+        "dem",
+        "gradient"
       ]
     }
   ]
