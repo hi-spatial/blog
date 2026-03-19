@@ -2285,17 +2285,6 @@
       ]
     },
     {
-      "title": "Python GeoViews: High-Level Visualization",
-      "category": "Python",
-      "keywords": [
-        "geoviews",
-        "holoViews",
-        "python",
-        "visualization",
-        "maps"
-      ]
-    },
-    {
       "title": "Leaflet Fullscreen: Mode Layar Penuh",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "aquifer",
         "potential",
         "mapping"
+      ]
+    },
+    {
+      "title": "Python GeoViews: High-Level Visualization",
+      "category": "Python",
+      "keywords": [
+        "geoviews",
+        "holoViews",
+        "python",
+        "visualization",
+        "maps"
       ]
     }
   ]
