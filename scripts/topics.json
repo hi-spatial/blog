@@ -1636,17 +1636,6 @@
       ]
     },
     {
-      "title": "Analisis Moran's I untuk Spasial Autokorelasi",
-      "category": "GIS",
-      "keywords": [
-        "morans i",
-        "autocorrelation",
-        "spatial statistic",
-        "clustering",
-        "pattern"
-      ]
-    },
-    {
       "title": "Python H3: Hexagonal Hierarchical Spatial Index",
       "category": "Python",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "monitoring",
         "lahan",
         "visualization"
+      ]
+    },
+    {
+      "title": "Analisis Moran's I untuk Spasial Autokorelasi",
+      "category": "GIS",
+      "keywords": [
+        "morans i",
+        "autocorrelation",
+        "spatial statistic",
+        "clustering",
+        "pattern"
       ]
     }
   ]
