@@ -888,17 +888,6 @@
       ]
     },
     {
-      "title": "QGIS Atlas: Membuat Banyak Peta Otomatis",
-      "category": "Tutorial",
-      "keywords": [
-        "qgis",
-        "atlas",
-        "print layout",
-        "automation",
-        "batch"
-      ]
-    },
-    {
       "title": "Visualisasi Peta Stamen dan CartoDB Basemaps",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "python",
         "visualization",
         "maps"
+      ]
+    },
+    {
+      "title": "QGIS Atlas: Membuat Banyak Peta Otomatis",
+      "category": "Tutorial",
+      "keywords": [
+        "qgis",
+        "atlas",
+        "print layout",
+        "automation",
+        "batch"
       ]
     }
   ]
