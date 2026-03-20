@@ -1075,17 +1075,6 @@
       ]
     },
     {
-      "title": "Membuat Dashboard Monitoring Lahan dengan Kepler",
-      "category": "WebGIS",
-      "keywords": [
-        "kepler.gl",
-        "dashboard",
-        "monitoring",
-        "lahan",
-        "visualization"
-      ]
-    },
-    {
       "title": "QGIS Plugin: Profile Tool untuk Analisis Topografi",
       "category": "Tutorial",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "print layout",
         "automation",
         "batch"
+      ]
+    },
+    {
+      "title": "Membuat Dashboard Monitoring Lahan dengan Kepler",
+      "category": "WebGIS",
+      "keywords": [
+        "kepler.gl",
+        "dashboard",
+        "monitoring",
+        "lahan",
+        "visualization"
       ]
     }
   ]
