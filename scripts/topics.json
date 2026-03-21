@@ -767,17 +767,6 @@
       ]
     },
     {
-      "title": "Membuat Peta Flow dengan Arrows di Leaflet",
-      "category": "WebGIS",
-      "keywords": [
-        "leaflet",
-        "flow",
-        "arrows",
-        "direction",
-        "routing"
-      ]
-    },
-    {
       "title": "Pemanfaatan PRISMA untuk Hyperspectral Imaging",
       "category": "Remote Sensing",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "spatial statistic",
         "clustering",
         "pattern"
+      ]
+    },
+    {
+      "title": "Membuat Peta Flow dengan Arrows di Leaflet",
+      "category": "WebGIS",
+      "keywords": [
+        "leaflet",
+        "flow",
+        "arrows",
+        "direction",
+        "routing"
       ]
     }
   ]
