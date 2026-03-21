@@ -569,17 +569,6 @@
       ]
     },
     {
-      "title": "Tutorial Geopandas: Membaca dan Menulis Data Spasial",
-      "category": "Python",
-      "keywords": [
-        "geopandas",
-        "python",
-        "file io",
-        "shapefile",
-        "geojson"
-      ]
-    },
-    {
       "title": "QGIS Expression: Fungsi dan Operator Spasial",
       "category": "Tutorial",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "arrows",
         "direction",
         "routing"
+      ]
+    },
+    {
+      "title": "Tutorial Geopandas: Membaca dan Menulis Data Spasial",
+      "category": "Python",
+      "keywords": [
+        "geopandas",
+        "python",
+        "file io",
+        "shapefile",
+        "geojson"
       ]
     }
   ]
