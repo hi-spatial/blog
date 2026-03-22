@@ -1658,17 +1658,6 @@
       ]
     },
     {
-      "title": "Citra SPOT untuk Pemetaan Skala Regional",
-      "category": "Remote Sensing",
-      "keywords": [
-        "spot",
-        "airbus",
-        "regional",
-        "medium resolution",
-        "satellite"
-      ]
-    },
-    {
       "title": "Leaflet MarkerClusterGroup: Clustering Lanjutan",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "biomass",
         "forest",
         "climate"
+      ]
+    },
+    {
+      "title": "Citra SPOT untuk Pemetaan Skala Regional",
+      "category": "Remote Sensing",
+      "keywords": [
+        "spot",
+        "airbus",
+        "regional",
+        "medium resolution",
+        "satellite"
       ]
     }
   ]
