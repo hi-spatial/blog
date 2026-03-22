@@ -2131,17 +2131,6 @@
       ]
     },
     {
-      "title": "Analisis Carbon Stock dengan GIS dan Remote Sensing",
-      "category": "GIS",
-      "keywords": [
-        "carbon",
-        "stock",
-        "biomass",
-        "forest",
-        "climate"
-      ]
-    },
-    {
       "title": "Python IPyleaflet: Leaflet untuk Jupyter",
       "category": "Python",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "banjir",
         "modeling",
         "hazard"
+      ]
+    },
+    {
+      "title": "Analisis Carbon Stock dengan GIS dan Remote Sensing",
+      "category": "GIS",
+      "keywords": [
+        "carbon",
+        "stock",
+        "biomass",
+        "forest",
+        "climate"
       ]
     }
   ]
