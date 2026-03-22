@@ -3066,17 +3066,6 @@
       ]
     },
     {
-      "title": "Analisis Glacier Monitoring dengan Remote Sensing",
-      "category": "Remote Sensing",
-      "keywords": [
-        "glacier",
-        "es",
-        "monitoring",
-        "climate change",
-        "alpine"
-      ]
-    },
-    {
       "title": "QGIS Plugin: QGIS Buffer: Buffer Tools",
       "category": "Tutorial",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "regional",
         "medium resolution",
         "satellite"
+      ]
+    },
+    {
+      "title": "Analisis Glacier Monitoring dengan Remote Sensing",
+      "category": "Remote Sensing",
+      "keywords": [
+        "glacier",
+        "es",
+        "monitoring",
+        "climate change",
+        "alpine"
       ]
     }
   ]
