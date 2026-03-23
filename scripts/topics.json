@@ -2043,17 +2043,6 @@
       ]
     },
     {
-      "title": "Leaflet Path Transform: Transformasi Geometri",
-      "category": "WebGIS",
-      "keywords": [
-        "leaflet",
-        "transform",
-        "rotate",
-        "scale",
-        "geometri"
-      ]
-    },
-    {
       "title": "Analisis Perubahan Tutupan Lahan Mangrove",
       "category": "Remote Sensing",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "high resolution",
         "commercial",
         "siwei"
+      ]
+    },
+    {
+      "title": "Leaflet Path Transform: Transformasi Geometri",
+      "category": "WebGIS",
+      "keywords": [
+        "leaflet",
+        "transform",
+        "rotate",
+        "scale",
+        "geometri"
       ]
     }
   ]
