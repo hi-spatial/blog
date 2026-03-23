@@ -3396,17 +3396,6 @@
       ]
     },
     {
-      "title": "Citra Antarctica SAR untuk Polar",
-      "category": "Remote Sensing",
-      "keywords": [
-        "antarctica",
-        "sar",
-        "polar",
-        "ice",
-        "monitoring"
-      ]
-    },
-    {
       "title": "Membuat WebGIS CanJS dan Leaflet",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "rotate",
         "scale",
         "geometri"
+      ]
+    },
+    {
+      "title": "Citra Antarctica SAR untuk Polar",
+      "category": "Remote Sensing",
+      "keywords": [
+        "antarctica",
+        "sar",
+        "polar",
+        "ice",
+        "monitoring"
       ]
     }
   ]
