@@ -2835,17 +2835,6 @@
       ]
     },
     {
-      "title": "Citra SuperView untuk China High Resolution",
-      "category": "Remote Sensing",
-      "keywords": [
-        "superview",
-        "china",
-        "high resolution",
-        "commercial",
-        "siwei"
-      ]
-    },
-    {
       "title": "Membuat WebGIS dengan Aurelia dan Leaflet",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "monitoring",
         "climate change",
         "alpine"
+      ]
+    },
+    {
+      "title": "Citra SuperView untuk China High Resolution",
+      "category": "Remote Sensing",
+      "keywords": [
+        "superview",
+        "china",
+        "high resolution",
+        "commercial",
+        "siwei"
       ]
     }
   ]
