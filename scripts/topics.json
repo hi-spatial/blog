@@ -3473,17 +3473,6 @@
       ]
     },
     {
-      "title": "Analisis Sea Surface Temperature",
-      "category": "Remote Sensing",
-      "keywords": [
-        "sst",
-        "sea surface",
-        "temperature",
-        "ocean",
-        "modis"
-      ]
-    },
-    {
       "title": "QGIS Plugin: QGIS Convex Hull",
       "category": "Tutorial",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "landsat",
         "automation",
         "api"
+      ]
+    },
+    {
+      "title": "Analisis Sea Surface Temperature",
+      "category": "Remote Sensing",
+      "keywords": [
+        "sst",
+        "sea surface",
+        "temperature",
+        "ocean",
+        "modis"
       ]
     }
   ]
