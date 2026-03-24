@@ -932,17 +932,6 @@
       ]
     },
     {
-      "title": "QGIS Console: Python Scripting dalam QGIS",
-      "category": "Tutorial",
-      "keywords": [
-        "qgis",
-        "python console",
-        "pyqgis",
-        "scripting",
-        "automation"
-      ]
-    },
-    {
       "title": "Analisis Snail Trail atau Movement Pattern",
       "category": "GIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "temperature",
         "ocean",
         "modis"
+      ]
+    },
+    {
+      "title": "QGIS Console: Python Scripting dalam QGIS",
+      "category": "Tutorial",
+      "keywords": [
+        "qgis",
+        "python console",
+        "pyqgis",
+        "scripting",
+        "automation"
       ]
     }
   ]
