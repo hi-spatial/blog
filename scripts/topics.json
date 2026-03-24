@@ -371,17 +371,6 @@
       ]
     },
     {
-      "title": "Python untuk Automatisasi Download Citra Satelit",
-      "category": "Python",
-      "keywords": [
-        "python",
-        "sentinel",
-        "landsat",
-        "automation",
-        "api"
-      ]
-    },
-    {
       "title": "Membuat WebGIS dengan Vue.js dan MapLibre GL",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "polar",
         "ice",
         "monitoring"
+      ]
+    },
+    {
+      "title": "Python untuk Automatisasi Download Citra Satelit",
+      "category": "Python",
+      "keywords": [
+        "python",
+        "sentinel",
+        "landsat",
+        "automation",
+        "api"
       ]
     }
   ]
