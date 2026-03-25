@@ -209,17 +209,6 @@
       ]
     },
     {
-      "title": "Tutorial Lengkap Membuat Peta dengan R dan ggplot2",
-      "category": "Tutorial",
-      "keywords": [
-        "r",
-        "ggplot2",
-        "statistik",
-        "peta",
-        "visualisasi"
-      ]
-    },
-    {
       "title": "Pemanfaatan LiDAR untuk Pemetaan 3D",
       "category": "Remote Sensing",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "mobile",
         "android",
         "ios"
+      ]
+    },
+    {
+      "title": "Tutorial Lengkap Membuat Peta dengan R dan ggplot2",
+      "category": "Tutorial",
+      "keywords": [
+        "r",
+        "ggplot2",
+        "statistik",
+        "peta",
+        "visualisasi"
       ]
     }
   ]
