@@ -1933,17 +1933,6 @@
       ]
     },
     {
-      "title": "Membuat WebGIS dengan Polymer dan Mapbox",
-      "category": "WebGIS",
-      "keywords": [
-        "polymer",
-        "web components",
-        "mapbox",
-        "webgis",
-        "frontend"
-      ]
-    },
-    {
       "title": "Analisis Morphometric untuk Wilayah Sungai",
       "category": "GIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "pyqgis",
         "scripting",
         "automation"
+      ]
+    },
+    {
+      "title": "Membuat WebGIS dengan Polymer dan Mapbox",
+      "category": "WebGIS",
+      "keywords": [
+        "polymer",
+        "web components",
+        "mapbox",
+        "webgis",
+        "frontend"
       ]
     }
   ]
