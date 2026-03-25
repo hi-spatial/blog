@@ -536,17 +536,6 @@
       ]
     },
     {
-      "title": "Membuat Mobile GIS App dengan Flutter dan Mapbox",
-      "category": "WebGIS",
-      "keywords": [
-        "flutter",
-        "mapbox",
-        "mobile",
-        "android",
-        "ios"
-      ]
-    },
-    {
       "title": "Analisis Pola Permukiman dengan Spatial Autocorrelation",
       "category": "GIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "mapbox",
         "webgis",
         "frontend"
+      ]
+    },
+    {
+      "title": "Membuat Mobile GIS App dengan Flutter dan Mapbox",
+      "category": "WebGIS",
+      "keywords": [
+        "flutter",
+        "mapbox",
+        "mobile",
+        "android",
+        "ios"
       ]
     }
   ]
