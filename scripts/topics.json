@@ -2011,17 +2011,6 @@
       ]
     },
     {
-      "title": "QGIS Plugin: QGIS Expressions untuk Labelling",
-      "category": "Tutorial",
-      "keywords": [
-        "qgis",
-        "expression",
-        "labeling",
-        "text",
-        "cartography"
-      ]
-    },
-    {
       "title": "Python Pydeck: 3D Visualization dengan Deck.gl",
       "category": "Python",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "citra satelit",
         "monitoring",
         "high resolution"
+      ]
+    },
+    {
+      "title": "QGIS Plugin: QGIS Expressions untuk Labelling",
+      "category": "Tutorial",
+      "keywords": [
+        "qgis",
+        "expression",
+        "labeling",
+        "text",
+        "cartography"
       ]
     }
   ]
