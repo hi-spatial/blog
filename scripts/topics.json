@@ -493,17 +493,6 @@
       ]
     },
     {
-      "title": "Visualisasi Jalur Pendakian dengan GPX Tracks",
-      "category": "Tutorial",
-      "keywords": [
-        "gpx",
-        "tracking",
-        "gps",
-        "outdoors",
-        "hiking"
-      ]
-    },
-    {
       "title": "Peta Sebaran Fasilitas Kesehatan dengan OpenStreetMap",
       "category": "GIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "labeling",
         "text",
         "cartography"
+      ]
+    },
+    {
+      "title": "Visualisasi Jalur Pendakian dengan GPX Tracks",
+      "category": "Tutorial",
+      "keywords": [
+        "gpx",
+        "tracking",
+        "gps",
+        "outdoors",
+        "hiking"
       ]
     }
   ]
