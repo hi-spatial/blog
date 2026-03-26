@@ -274,16 +274,6 @@
       ]
     },
     {
-      "title": "Pemanfaatan Data Planetcope untuk Monitoring Lahan",
-      "category": "Remote Sensing",
-      "keywords": [
-        "planetoscope",
-        "citra satelit",
-        "monitoring",
-        "high resolution"
-      ]
-    },
-    {
       "title": "QGIS Plugin: Semi-Automatic Classification untuk Pengolahan Citra",
       "category": "Tutorial",
       "keywords": [
@@ -4983,6 +4973,16 @@
         "statistik",
         "peta",
         "visualisasi"
+      ]
+    },
+    {
+      "title": "Pemanfaatan Data Planetcope untuk Monitoring Lahan",
+      "category": "Remote Sensing",
+      "keywords": [
+        "planetoscope",
+        "citra satelit",
+        "monitoring",
+        "high resolution"
       ]
     }
   ]
