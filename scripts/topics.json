@@ -889,17 +889,6 @@
       ]
     },
     {
-      "title": "Analisis Snail Trail atau Movement Pattern",
-      "category": "GIS",
-      "keywords": [
-        "snail trail",
-        "movement",
-        "tracking",
-        "pattern",
-        "trajectory"
-      ]
-    },
-    {
       "title": "Peta Interaktif dengan Plotly Express",
       "category": "Python",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "stacked",
         "visualization",
         "composite"
+      ]
+    },
+    {
+      "title": "Analisis Snail Trail atau Movement Pattern",
+      "category": "GIS",
+      "keywords": [
+        "snail trail",
+        "movement",
+        "tracking",
+        "pattern",
+        "trajectory"
       ]
     }
   ]
