@@ -1120,17 +1120,6 @@
       ]
     },
     {
-      "title": "Membuat Peta Stacked dengan Mapbox GL Layers",
-      "category": "WebGIS",
-      "keywords": [
-        "mapbox gl",
-        "layers",
-        "stacked",
-        "visualization",
-        "composite"
-      ]
-    },
-    {
       "title": "QGIS MetaSearch: Cari Dataset Geospasial Online",
       "category": "Tutorial",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "gps",
         "outdoors",
         "hiking"
+      ]
+    },
+    {
+      "title": "Membuat Peta Stacked dengan Mapbox GL Layers",
+      "category": "WebGIS",
+      "keywords": [
+        "mapbox gl",
+        "layers",
+        "stacked",
+        "visualization",
+        "composite"
       ]
     }
   ]
