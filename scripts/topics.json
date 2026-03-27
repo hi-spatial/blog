@@ -2858,17 +2858,6 @@
       ]
     },
     {
-      "title": "Analisis Snow Cover Monitoring",
-      "category": "Remote Sensing",
-      "keywords": [
-        "snow",
-        "cover",
-        "nDSI",
-        "monitoring",
-        "climate"
-      ]
-    },
-    {
       "title": "QGIS Plugin: QGIS Points to Paths: Tracking",
       "category": "Tutorial",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "tracking",
         "pattern",
         "trajectory"
+      ]
+    },
+    {
+      "title": "Analisis Snow Cover Monitoring",
+      "category": "Remote Sensing",
+      "keywords": [
+        "snow",
+        "cover",
+        "nDSI",
+        "monitoring",
+        "climate"
       ]
     }
   ]
