@@ -1263,17 +1263,6 @@
       ]
     },
     {
-      "title": "Membuat Peta dengan CartoDB VL (CartoVL)",
-      "category": "WebGIS",
-      "keywords": [
-        "cartovl",
-        "cartodb",
-        "vector tiles",
-        "visualization",
-        "webgis"
-      ]
-    },
-    {
       "title": "Analisis Accessibility Score dengan GIS",
       "category": "GIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "rasterio",
         "raster",
         "multidimensional"
+      ]
+    },
+    {
+      "title": "Membuat Peta dengan CartoDB VL (CartoVL)",
+      "category": "WebGIS",
+      "keywords": [
+        "cartovl",
+        "cartodb",
+        "vector tiles",
+        "visualization",
+        "webgis"
       ]
     }
   ]
