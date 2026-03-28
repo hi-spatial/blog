@@ -2594,17 +2594,6 @@
       ]
     },
     {
-      "title": "Python Rioxarray: Xarray untuk Rasterio",
-      "category": "Python",
-      "keywords": [
-        "rioxarray",
-        "xarray",
-        "rasterio",
-        "raster",
-        "multidimensional"
-      ]
-    },
-    {
       "title": "Leaflet Fuel: Fuel Price Map",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "landscape metrics",
         "ekologi",
         "conservation"
+      ]
+    },
+    {
+      "title": "Python Rioxarray: Xarray untuk Rasterio",
+      "category": "Python",
+      "keywords": [
+        "rioxarray",
+        "xarray",
+        "rasterio",
+        "raster",
+        "multidimensional"
       ]
     }
   ]
