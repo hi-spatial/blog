@@ -1098,17 +1098,6 @@
       ]
     },
     {
-      "title": "Analisis Fragmentasi Habitat dengan Landscape Metrics",
-      "category": "GIS",
-      "keywords": [
-        "fragmentasi",
-        "habitat",
-        "landscape metrics",
-        "ekologi",
-        "conservation"
-      ]
-    },
-    {
       "title": "QGIS MetaSearch: Cari Dataset Geospasial Online",
       "category": "Tutorial",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "nDSI",
         "monitoring",
         "climate"
+      ]
+    },
+    {
+      "title": "Analisis Fragmentasi Habitat dengan Landscape Metrics",
+      "category": "GIS",
+      "keywords": [
+        "fragmentasi",
+        "habitat",
+        "landscape metrics",
+        "ekologi",
+        "conservation"
       ]
     }
   ]
