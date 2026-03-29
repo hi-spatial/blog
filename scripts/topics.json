@@ -3199,17 +3199,6 @@
       ]
     },
     {
-      "title": "Python Geopandas: Data Exploration",
-      "category": "Python",
-      "keywords": [
-        "geopandas",
-        "exploration",
-        "eda",
-        "inspection",
-        "preview"
-      ]
-    },
-    {
       "title": "Leaflet Google: Google Maps Layer",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "vector tiles",
         "visualization",
         "webgis"
+      ]
+    },
+    {
+      "title": "Python Geopandas: Data Exploration",
+      "category": "Python",
+      "keywords": [
+        "geopandas",
+        "exploration",
+        "eda",
+        "inspection",
+        "preview"
       ]
     }
   ]
