@@ -427,17 +427,6 @@
       ]
     },
     {
-      "title": "Membuat Peta dengan Maputnik: Map Style Editor",
-      "category": "WebGIS",
-      "keywords": [
-        "maputnik",
-        "map style",
-        "vector tiles",
-        "openstreetmap",
-        "editor"
-      ]
-    },
-    {
       "title": "Geocoding Batch dengan Nominatim dan Python",
       "category": "Python",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "compression",
         "web mapping",
         "format data"
+      ]
+    },
+    {
+      "title": "Membuat Peta dengan Maputnik: Map Style Editor",
+      "category": "WebGIS",
+      "keywords": [
+        "maputnik",
+        "map style",
+        "vector tiles",
+        "openstreetmap",
+        "editor"
       ]
     }
   ]
