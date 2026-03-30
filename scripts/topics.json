@@ -3144,17 +3144,6 @@
       ]
     },
     {
-      "title": "Membuat Peta dengan Mapbox Geocoder Plugin",
-      "category": "WebGIS",
-      "keywords": [
-        "mapbox",
-        "geocoder",
-        "search",
-        "autocomplete",
-        "plugin"
-      ]
-    },
-    {
       "title": "Analisis Renewable Energy Site Selection",
       "category": "GIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "python",
         "nominatim",
         "automation"
+      ]
+    },
+    {
+      "title": "Membuat Peta dengan Mapbox Geocoder Plugin",
+      "category": "WebGIS",
+      "keywords": [
+        "mapbox",
+        "geocoder",
+        "search",
+        "autocomplete",
+        "plugin"
       ]
     }
   ]
