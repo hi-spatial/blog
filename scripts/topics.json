@@ -427,17 +427,6 @@
       ]
     },
     {
-      "title": "Geocoding Batch dengan Nominatim dan Python",
-      "category": "Python",
-      "keywords": [
-        "geocoding",
-        "batch",
-        "python",
-        "nominatim",
-        "automation"
-      ]
-    },
-    {
       "title": "Analisis Perubahan Garis Pantai dengan DSAS",
       "category": "Remote Sensing",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "vector tiles",
         "openstreetmap",
         "editor"
+      ]
+    },
+    {
+      "title": "Geocoding Batch dengan Nominatim dan Python",
+      "category": "Python",
+      "keywords": [
+        "geocoding",
+        "batch",
+        "python",
+        "nominatim",
+        "automation"
       ]
     }
   ]
