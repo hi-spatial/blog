@@ -2055,17 +2055,6 @@
       ]
     },
     {
-      "title": "QGIS Plugin: QGIS Digitize: Tools Editing Lanjutan",
-      "category": "Tutorial",
-      "keywords": [
-        "qgis",
-        "digitize",
-        "editing",
-        "advanced",
-        "plugin"
-      ]
-    },
-    {
       "title": "Citra RapidEye: Red Edge Band",
       "category": "Remote Sensing",
       "keywords": [
@@ -4982,6 +4971,17 @@
         "geocoder",
         "search",
         "autocomplete",
+        "plugin"
+      ]
+    },
+    {
+      "title": "QGIS Plugin: QGIS Digitize: Tools Editing Lanjutan",
+      "category": "Tutorial",
+      "keywords": [
+        "qgis",
+        "digitize",
+        "editing",
+        "advanced",
         "plugin"
       ]
     }
