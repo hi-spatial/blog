@@ -209,16 +209,6 @@
       ]
     },
     {
-      "title": "Pemanfaatan LiDAR untuk Pemetaan 3D",
-      "category": "Remote Sensing",
-      "keywords": [
-        "lidar",
-        "point cloud",
-        "3d mapping",
-        "elevation"
-      ]
-    },
-    {
       "title": "Membuat WebGIS dengan React dan Leaflet",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4973,16 @@
         "editing",
         "advanced",
         "plugin"
+      ]
+    },
+    {
+      "title": "Pemanfaatan LiDAR untuk Pemetaan 3D",
+      "category": "Remote Sensing",
+      "keywords": [
+        "lidar",
+        "point cloud",
+        "3d mapping",
+        "elevation"
       ]
     }
   ]
