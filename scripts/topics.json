@@ -2650,17 +2650,6 @@
       ]
     },
     {
-      "title": "Leaflet OSM: Custom OpenStreetMap Tiles",
-      "category": "WebGIS",
-      "keywords": [
-        "leaflet",
-        "osm",
-        "tiles",
-        "custom",
-        "server"
-      ]
-    },
-    {
       "title": "QGIS Plugin: QGIS Raster Calc: Kalkulator Raster",
       "category": "Tutorial",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "point cloud",
         "3d mapping",
         "elevation"
+      ]
+    },
+    {
+      "title": "Leaflet OSM: Custom OpenStreetMap Tiles",
+      "category": "WebGIS",
+      "keywords": [
+        "leaflet",
+        "osm",
+        "tiles",
+        "custom",
+        "server"
       ]
     }
   ]
