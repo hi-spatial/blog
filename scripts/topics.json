@@ -2408,17 +2408,6 @@
       ]
     },
     {
-      "title": "QGIS Plugin: QGIS ShapeTools: Tools Bentuk",
-      "category": "Tutorial",
-      "keywords": [
-        "qgis",
-        "shape tools",
-        "geodesic",
-        "buffer",
-        "ellipse"
-      ]
-    },
-    {
       "title": "Membuat Peta dengan Mapbox Geocoding API",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "asia",
         "remote sensing",
         "spot"
+      ]
+    },
+    {
+      "title": "QGIS Plugin: QGIS ShapeTools: Tools Bentuk",
+      "category": "Tutorial",
+      "keywords": [
+        "qgis",
+        "shape tools",
+        "geodesic",
+        "buffer",
+        "ellipse"
       ]
     }
   ]
