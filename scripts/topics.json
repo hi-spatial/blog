@@ -571,17 +571,6 @@
       ]
     },
     {
-      "title": "Python Rasterio: Memproses Citra Satelit",
-      "category": "Python",
-      "keywords": [
-        "rasterio",
-        "python",
-        "raster",
-        "citra",
-        "processing"
-      ]
-    },
-    {
       "title": "Analisis Evapotranspirasi dengan Data Remote Sensing",
       "category": "Remote Sensing",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "spatial",
         "database",
         "portable"
+      ]
+    },
+    {
+      "title": "Python Rasterio: Memproses Citra Satelit",
+      "category": "Python",
+      "keywords": [
+        "rasterio",
+        "python",
+        "raster",
+        "citra",
+        "processing"
       ]
     }
   ]
