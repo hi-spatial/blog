@@ -1979,17 +1979,6 @@
       ]
     },
     {
-      "title": "Citra Formosat untuk Taiwan dan Asia",
-      "category": "Remote Sensing",
-      "keywords": [
-        "formosat",
-        "taiwan",
-        "asia",
-        "remote sensing",
-        "spot"
-      ]
-    },
-    {
       "title": "Membuat Peta dengan Mapbox Isochrone",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "raster",
         "citra",
         "processing"
+      ]
+    },
+    {
+      "title": "Citra Formosat untuk Taiwan dan Asia",
+      "category": "Remote Sensing",
+      "keywords": [
+        "formosat",
+        "taiwan",
+        "asia",
+        "remote sensing",
+        "spot"
       ]
     }
   ]
