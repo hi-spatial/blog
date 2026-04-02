@@ -3288,17 +3288,6 @@
       ]
     },
     {
-      "title": "Python Geopandas: Performance Tips",
-      "category": "Python",
-      "keywords": [
-        "geopandas",
-        "performance",
-        "optimization",
-        "speed",
-        "best practices"
-      ]
-    },
-    {
       "title": "Leaflet Mapbox: Mapbox Tiles di Leaflet",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "geodesic",
         "buffer",
         "ellipse"
+      ]
+    },
+    {
+      "title": "Python Geopandas: Performance Tips",
+      "category": "Python",
+      "keywords": [
+        "geopandas",
+        "performance",
+        "optimization",
+        "speed",
+        "best practices"
       ]
     }
   ]
