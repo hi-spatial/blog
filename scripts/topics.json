@@ -2133,17 +2133,6 @@
       ]
     },
     {
-      "title": "Citra Komersial: Airbus Pléiades Neo",
-      "category": "Remote Sensing",
-      "keywords": [
-        "pleiades neo",
-        "airbus",
-        "30cm",
-        "high resolution",
-        "commercial"
-      ]
-    },
-    {
       "title": "Membuat WebGIS dengan StencilJS dan Leaflet",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "suhu",
         "urban heat island",
         "landsat"
+      ]
+    },
+    {
+      "title": "Citra Komersial: Airbus Pléiades Neo",
+      "category": "Remote Sensing",
+      "keywords": [
+        "pleiades neo",
+        "airbus",
+        "30cm",
+        "high resolution",
+        "commercial"
       ]
     }
   ]
