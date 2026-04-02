@@ -494,17 +494,6 @@
       ]
     },
     {
-      "title": "Citra Termal untuk Analisis Suhu Permukaan",
-      "category": "Remote Sensing",
-      "keywords": [
-        "thermal",
-        "lst",
-        "suhu",
-        "urban heat island",
-        "landsat"
-      ]
-    },
-    {
       "title": "Membuat Peta dengan ArcGIS Pro dan Python",
       "category": "Tutorial",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "optimization",
         "speed",
         "best practices"
+      ]
+    },
+    {
+      "title": "Citra Termal untuk Analisis Suhu Permukaan",
+      "category": "Remote Sensing",
+      "keywords": [
+        "thermal",
+        "lst",
+        "suhu",
+        "urban heat island",
+        "landsat"
       ]
     }
   ]
