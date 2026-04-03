@@ -275,17 +275,6 @@
       ]
     },
     {
-      "title": "Peta Rute Angkutan Umum dengan GraphHopper",
-      "category": "WebGIS",
-      "keywords": [
-        "graphhopper",
-        "routing",
-        "angkutan umum",
-        "openstreetmap",
-        "api"
-      ]
-    },
-    {
       "title": "Analisis Kesesuaian Lahan untuk Pertanian",
       "category": "GIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "vector tiles",
         "scene file",
         "webgis"
+      ]
+    },
+    {
+      "title": "Peta Rute Angkutan Umum dengan GraphHopper",
+      "category": "WebGIS",
+      "keywords": [
+        "graphhopper",
+        "routing",
+        "angkutan umum",
+        "openstreetmap",
+        "api"
       ]
     }
   ]
