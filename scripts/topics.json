@@ -1385,17 +1385,6 @@
       ]
     },
     {
-      "title": "Membuat Peta dengan MapZen dan Tangram",
-      "category": "WebGIS",
-      "keywords": [
-        "mapzen",
-        "tangram",
-        "vector tiles",
-        "scene file",
-        "webgis"
-      ]
-    },
-    {
       "title": "Analisis Propagasi Tsunami dengan Model GIS",
       "category": "GIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "spatial index",
         "performance",
         "query"
+      ]
+    },
+    {
+      "title": "Membuat Peta dengan MapZen dan Tangram",
+      "category": "WebGIS",
+      "keywords": [
+        "mapzen",
+        "tangram",
+        "vector tiles",
+        "scene file",
+        "webgis"
       ]
     }
   ]
