@@ -2903,17 +2903,6 @@
       ]
     },
     {
-      "title": "Python Geopandas: Spatial Indexing",
-      "category": "Python",
-      "keywords": [
-        "geopandas",
-        "rtree",
-        "spatial index",
-        "performance",
-        "query"
-      ]
-    },
-    {
       "title": "Leaflet Bing: Bing Maps Layer",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "30cm",
         "high resolution",
         "commercial"
+      ]
+    },
+    {
+      "title": "Python Geopandas: Spatial Indexing",
+      "category": "Python",
+      "keywords": [
+        "geopandas",
+        "rtree",
+        "spatial index",
+        "performance",
+        "query"
       ]
     }
   ]
