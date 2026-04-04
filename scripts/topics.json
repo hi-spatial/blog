@@ -2958,17 +2958,6 @@
       ]
     },
     {
-      "title": "Analisis Perencanaan Bandara dengan GIS",
-      "category": "GIS",
-      "keywords": [
-        "bandara",
-        "airport",
-        "planning",
-        "aviation",
-        "location"
-      ]
-    },
-    {
       "title": "Leaflet Esri: ESRI Leaflet Plugin",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "narrative",
         "journalism",
         "multimedia"
+      ]
+    },
+    {
+      "title": "Analisis Perencanaan Bandara dengan GIS",
+      "category": "GIS",
+      "keywords": [
+        "bandara",
+        "airport",
+        "planning",
+        "aviation",
+        "location"
       ]
     }
   ]
