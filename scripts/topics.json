@@ -1550,17 +1550,6 @@
       ]
     },
     {
-      "title": "Leaflet Control Geocoder: Cari Lokasi di Peta",
-      "category": "WebGIS",
-      "keywords": [
-        "leaflet",
-        "geocoder",
-        "search",
-        "nominatim",
-        "location"
-      ]
-    },
-    {
       "title": "Analisis Kernel Density Estimation dengan Python",
       "category": "Python",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "angkutan umum",
         "openstreetmap",
         "api"
+      ]
+    },
+    {
+      "title": "Leaflet Control Geocoder: Cari Lokasi di Peta",
+      "category": "WebGIS",
+      "keywords": [
+        "leaflet",
+        "geocoder",
+        "search",
+        "nominatim",
+        "location"
       ]
     }
   ]
