@@ -1308,17 +1308,6 @@
       ]
     },
     {
-      "title": "Membuat Story Map dengan ArcGIS StoryMaps",
-      "category": "WebGIS",
-      "keywords": [
-        "storymap",
-        "arcgis",
-        "narrative",
-        "journalism",
-        "multimedia"
-      ]
-    },
-    {
       "title": "QGIS Plugin: LatLon Tools untuk Koordinat",
       "category": "Tutorial",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "search",
         "nominatim",
         "location"
+      ]
+    },
+    {
+      "title": "Membuat Story Map dengan ArcGIS StoryMaps",
+      "category": "WebGIS",
+      "keywords": [
+        "storymap",
+        "arcgis",
+        "narrative",
+        "journalism",
+        "multimedia"
       ]
     }
   ]
