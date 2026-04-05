@@ -1836,17 +1836,6 @@
       ]
     },
     {
-      "title": "Python Pydeck: 3D Visualization dengan Deck.gl",
-      "category": "Python",
-      "keywords": [
-        "pydeck",
-        "deck.gl",
-        "python",
-        "3d visualization",
-        "uber"
-      ]
-    },
-    {
       "title": "Citra Aster untuk Mineral Mapping",
       "category": "Remote Sensing",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "housing",
         "mcda",
         "spatial"
+      ]
+    },
+    {
+      "title": "Python Pydeck: 3D Visualization dengan Deck.gl",
+      "category": "Python",
+      "keywords": [
+        "pydeck",
+        "deck.gl",
+        "python",
+        "3d visualization",
+        "uber"
       ]
     }
   ]
