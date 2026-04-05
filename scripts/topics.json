@@ -2100,17 +2100,6 @@
       ]
     },
     {
-      "title": "Analisis Suitability Analysis untuk Perumahan",
-      "category": "GIS",
-      "keywords": [
-        "suitability",
-        "perumahan",
-        "housing",
-        "mcda",
-        "spatial"
-      ]
-    },
-    {
       "title": "Python Folium: Choropleth Maps",
       "category": "Python",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "planning",
         "aviation",
         "location"
+      ]
+    },
+    {
+      "title": "Analisis Suitability Analysis untuk Perumahan",
+      "category": "GIS",
+      "keywords": [
+        "suitability",
+        "perumahan",
+        "housing",
+        "mcda",
+        "spatial"
       ]
     }
   ]
