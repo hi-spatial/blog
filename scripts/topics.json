@@ -758,17 +758,6 @@
       ]
     },
     {
-      "title": "Python Pyproj: Transformasi Proyeksi Koordinat",
-      "category": "Python",
-      "keywords": [
-        "pyproj",
-        "python",
-        "proyeksi",
-        "crs",
-        "transform"
-      ]
-    },
-    {
       "title": "Pemanfaatan Tessa GIS untuk Field Survey",
       "category": "Tutorial",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "python",
         "3d visualization",
         "uber"
+      ]
+    },
+    {
+      "title": "Python Pyproj: Transformasi Proyeksi Koordinat",
+      "category": "Python",
+      "keywords": [
+        "pyproj",
+        "python",
+        "proyeksi",
+        "crs",
+        "transform"
       ]
     }
   ]
