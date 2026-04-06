@@ -1308,17 +1308,6 @@
       ]
     },
     {
-      "title": "Analisis Perubahan Garis Pantai Multi-Temporal",
-      "category": "Remote Sensing",
-      "keywords": [
-        "shoreline",
-        "change detection",
-        "coastal",
-        "erosion",
-        "multi temporal"
-      ]
-    },
-    {
       "title": "Leaflet Side-by-Side: Perbandingan Peta",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "wind",
         "current",
         "animation"
+      ]
+    },
+    {
+      "title": "Analisis Perubahan Garis Pantai Multi-Temporal",
+      "category": "Remote Sensing",
+      "keywords": [
+        "shoreline",
+        "change detection",
+        "coastal",
+        "erosion",
+        "multi temporal"
       ]
     }
   ]
