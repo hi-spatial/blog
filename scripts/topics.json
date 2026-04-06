@@ -648,17 +648,6 @@
       ]
     },
     {
-      "title": "Analisis Aksesibilitas Fasilitas Publik",
-      "category": "GIS",
-      "keywords": [
-        "aksesibilitas",
-        "fasilitas",
-        "accessibility",
-        "network analysis",
-        "urban"
-      ]
-    },
-    {
       "title": "Membuat Geospatial PDF dengan QGIS",
       "category": "Tutorial",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "coastal",
         "erosion",
         "multi temporal"
+      ]
+    },
+    {
+      "title": "Analisis Aksesibilitas Fasilitas Publik",
+      "category": "GIS",
+      "keywords": [
+        "aksesibilitas",
+        "fasilitas",
+        "accessibility",
+        "network analysis",
+        "urban"
       ]
     }
   ]
