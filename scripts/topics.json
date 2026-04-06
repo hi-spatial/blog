@@ -1737,17 +1737,6 @@
       ]
     },
     {
-      "title": "Leaflet Velocity: Visualisasi Arus dan Angin",
-      "category": "WebGIS",
-      "keywords": [
-        "leaflet",
-        "velocity",
-        "wind",
-        "current",
-        "animation"
-      ]
-    },
-    {
       "title": "Analisis Zona Tingkat Kerusakan Hutan",
       "category": "Remote Sensing",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "proyeksi",
         "crs",
         "transform"
+      ]
+    },
+    {
+      "title": "Leaflet Velocity: Visualisasi Arus dan Angin",
+      "category": "WebGIS",
+      "keywords": [
+        "leaflet",
+        "velocity",
+        "wind",
+        "current",
+        "animation"
       ]
     }
   ]
