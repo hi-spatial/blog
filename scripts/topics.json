@@ -1803,17 +1803,6 @@
       ]
     },
     {
-      "title": "Python IPyleaflet: Leaflet untuk Jupyter",
-      "category": "Python",
-      "keywords": [
-        "ipyleaflet",
-        "jupyter",
-        "python",
-        "leaflet",
-        "notebook"
-      ]
-    },
-    {
       "title": "QGIS Plugin: QGIS Network Routing",
       "category": "Tutorial",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "accessibility",
         "network analysis",
         "urban"
+      ]
+    },
+    {
+      "title": "Python IPyleaflet: Leaflet untuk Jupyter",
+      "category": "Python",
+      "keywords": [
+        "ipyleaflet",
+        "jupyter",
+        "python",
+        "leaflet",
+        "notebook"
       ]
     }
   ]
