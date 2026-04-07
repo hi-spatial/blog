@@ -2309,17 +2309,6 @@
       ]
     },
     {
-      "title": "Analisis Agricultural Drought Monitoring",
-      "category": "Remote Sensing",
-      "keywords": [
-        "kekeringan",
-        "drought",
-        "pertanian",
-        "ndvi",
-        "monitoring"
-      ]
-    },
-    {
       "title": "Citra DubaiSat untuk UAE",
       "category": "Remote Sensing",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "python",
         "leaflet",
         "notebook"
+      ]
+    },
+    {
+      "title": "Analisis Agricultural Drought Monitoring",
+      "category": "Remote Sensing",
+      "keywords": [
+        "kekeringan",
+        "drought",
+        "pertanian",
+        "ndvi",
+        "monitoring"
       ]
     }
   ]
