@@ -2925,17 +2925,6 @@
       ]
     },
     {
-      "title": "QGIS Plugin: QGIS Dissolve: Dissolve Tools",
-      "category": "Tutorial",
-      "keywords": [
-        "qgis",
-        "dissolve",
-        "aggregate",
-        "merge",
-        "plugin"
-      ]
-    },
-    {
       "title": "Membuat WebGIS CanJS dan Leaflet",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "pertanian",
         "ndvi",
         "monitoring"
+      ]
+    },
+    {
+      "title": "QGIS Plugin: QGIS Dissolve: Dissolve Tools",
+      "category": "Tutorial",
+      "keywords": [
+        "qgis",
+        "dissolve",
+        "aggregate",
+        "merge",
+        "plugin"
       ]
     }
   ]
