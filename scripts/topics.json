@@ -923,17 +923,6 @@
       ]
     },
     {
-      "title": "Analisis Nilai Ekosistem dengan GIS",
-      "category": "GIS",
-      "keywords": [
-        "ekosistem",
-        "environmental services",
-        "valuing",
-        "natural capital",
-        "spatial"
-      ]
-    },
-    {
       "title": "Membuat WebGIS Tanpa Backend dengan GitHub Pages",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "modeling",
         "bencana",
         "coastal"
+      ]
+    },
+    {
+      "title": "Analisis Nilai Ekosistem dengan GIS",
+      "category": "GIS",
+      "keywords": [
+        "ekosistem",
+        "environmental services",
+        "valuing",
+        "natural capital",
+        "spatial"
       ]
     }
   ]
