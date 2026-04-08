@@ -1319,17 +1319,6 @@
       ]
     },
     {
-      "title": "Analisis Propagasi Tsunami dengan Model GIS",
-      "category": "GIS",
-      "keywords": [
-        "tsunami",
-        "inundation",
-        "modeling",
-        "bencana",
-        "coastal"
-      ]
-    },
-    {
       "title": "QGIS Plugin: Gradient Tool untuk Analisis Kemiringan",
       "category": "Tutorial",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "rumah sakit",
         "service area",
         "network"
+      ]
+    },
+    {
+      "title": "Analisis Propagasi Tsunami dengan Model GIS",
+      "category": "GIS",
+      "keywords": [
+        "tsunami",
+        "inundation",
+        "modeling",
+        "bencana",
+        "coastal"
       ]
     }
   ]
