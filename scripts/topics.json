@@ -714,17 +714,6 @@
       ]
     },
     {
-      "title": "Analisis Catchment Area untuk Sekolah dan Rumah Sakit",
-      "category": "GIS",
-      "keywords": [
-        "catchment",
-        "sekolah",
-        "rumah sakit",
-        "service area",
-        "network"
-      ]
-    },
-    {
       "title": "Visualisasi Peta Stamen dan CartoDB Basemaps",
       "category": "WebGIS",
       "keywords": [
@@ -4983,6 +4972,17 @@
         "aggregate",
         "merge",
         "plugin"
+      ]
+    },
+    {
+      "title": "Analisis Catchment Area untuk Sekolah dan Rumah Sakit",
+      "category": "GIS",
+      "keywords": [
+        "catchment",
+        "sekolah",
+        "rumah sakit",
+        "service area",
+        "network"
       ]
     }
   ]
